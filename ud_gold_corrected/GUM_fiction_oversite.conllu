@@ -1,0 +1,1183 @@
+# newdoc id = GUM_fiction_oversite
+# s_type = frag
+# sent_id = GUM_fiction_oversite-1
+# text = Oversite
+1	Oversite	oversite	NOUN	NN	_	0	root	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-2
+# speaker = Renata
+# text = “It doesn’t hurt, Gram,” Renata says.
+1	“	"	PUNCT	``	_	5	punct	_	SpaceAfter=No
+2	It	it	PRON	PRP	_	5	nsubj	_	_
+3	does	do	AUX	VBZ	_	5	aux	_	SpaceAfter=No
+4	n’t	n't	PART	RB	Polarity=Neg	5	advmod	_	_
+5	hurt	hurt	VERB	VB	_	11	ccomp	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	Gram	Gram	PROPN	NNP	_	5	vocative	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	5	punct	_	SpaceAfter=No
+9	”	"	PUNCT	''	_	5	punct	_	_
+10	Renata	Renata	PROPN	NNP	_	11	nsubj	_	_
+11	says	say	VERB	VBZ	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-3
+# text = My sixteen-year-old daughter pulls up her T-shirt sleeve to show her bare arm, the skin summer brown and the muscle swelling slightly into smooth biceps, flawless.
+1	My	my	PRON	PRP$	_	3	nmod:poss	_	_
+2	sixteen-year-old	sixteen-year-old	ADJ	JJ	_	3	amod	_	_
+3	daughter	daughter	NOUN	NN	_	4	nsubj	_	_
+4	pulls	pull	VERB	VBZ	_	0	root	_	_
+5	up	up	ADP	RP	_	4	compound:prt	_	_
+6	her	her	PRON	PRP$	_	8	nmod:poss	_	_
+7	T-shirt	T-shirt	NOUN	NN	_	8	compound	_	_
+8	sleeve	sleeve	NOUN	NN	_	4	obj	_	_
+9	to	to	PART	TO	_	10	mark	_	_
+10	show	show	VERB	VB	_	4	advcl	_	_
+11	her	her	PRON	PRP$	_	13	nmod:poss	_	_
+12	bare	bare	ADJ	JJ	_	13	amod	_	_
+13	arm	arm	NOUN	NN	_	10	obj	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	18	punct	_	_
+15	the	the	DET	DT	_	16	det	_	_
+16	skin	skin	NOUN	NN	_	18	nsubj	_	_
+17	summer	summer	NOUN	NN	_	18	compound	_	_
+18	brown	brown	ADJ	JJ	_	13	advcl	_	_
+19	and	and	CCONJ	CC	_	22	cc	_	_
+20	the	the	DET	DT	_	21	det	_	_
+21	muscle	muscle	NOUN	NN	_	22	nsubj	_	_
+22	swelling	swell	VERB	VBG	_	18	conj	_	_
+23	slightly	slightly	ADV	RB	_	22	advmod	_	_
+24	into	into	ADP	IN	_	26	case	_	_
+25	smooth	smooth	ADJ	JJ	_	26	amod	_	_
+26	biceps	biceps	NOUN	NN	_	22	obl	_	SpaceAfter=No
+27	,	,	PUNCT	,	_	28	punct	_	_
+28	flawless	flawless	ADJ	JJ	_	13	advcl	_	SpaceAfter=No
+29	.	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-4
+# speaker = Renata
+# text = “I had it done when I was little and see, you can’t even tell.”
+1	“	"	PUNCT	``	_	3	punct	_	SpaceAfter=No
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	had	have	VERB	VBD	_	0	root	_	_
+4	it	it	PRON	PRP	_	3	obj	_	_
+5	done	do	VERB	VBN	_	3	xcomp	_	_
+6	when	when	SCONJ	WRB	_	9	advmod	_	_
+7	I	I	PRON	PRP	_	9	nsubj	_	_
+8	was	be	AUX	VBD	_	9	cop	_	_
+9	little	little	ADJ	JJ	_	5	advcl	_	_
+10	and	and	CCONJ	CC	_	11	cc	_	_
+11	see	see	VERB	VB	_	3	conj	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	17	punct	_	_
+13	you	you	PRON	PRP	_	17	nsubj	_	_
+14	ca	ca	AUX	MD	_	17	aux	_	SpaceAfter=No
+15	n’t	n't	PART	RB	Polarity=Neg	17	advmod	_	_
+16	even	even	ADV	RB	_	17	advmod	_	_
+17	tell	tell	VERB	VB	_	11	parataxis	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+19	”	"	PUNCT	''	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-5
+# text = My mother is sitting in the little examining room at the assisted living.
+1	My	my	PRON	PRP$	_	2	nmod:poss	_	_
+2	mother	mother	NOUN	NN	_	4	nsubj	_	_
+3	is	be	AUX	VBZ	_	4	aux	_	_
+4	sitting	sit	VERB	VBG	_	0	root	_	_
+5	in	in	ADP	IN	_	9	case	_	_
+6	the	the	DET	DT	_	9	det	_	_
+7	little	little	ADJ	JJ	_	9	amod	_	_
+8	examining	examining	NOUN	NN	_	9	compound	_	_
+9	room	room	NOUN	NN	_	4	obl	_	_
+10	at	at	ADP	IN	_	13	case	_	_
+11	the	the	DET	DT	_	13	det	_	_
+12	assisted	assist	VERB	VBN	_	13	amod	_	_
+13	living	living	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-6
+# text = Everything is white and hospital-like but there’s no examining couch.
+1	Everything	Everything	NOUN	NN	_	3	nsubj	_	_
+2	is	be	AUX	VBZ	_	3	cop	_	_
+3	white	white	ADJ	JJ	_	0	root	_	_
+4	and	and	CCONJ	CC	_	5	cc	_	_
+5	hospital-like	hospital-like	ADJ	JJ	_	3	conj	_	_
+6	but	but	CCONJ	CC	_	8	cc	_	_
+7	there	there	PRON	EX	_	8	expl	_	SpaceAfter=No
+8	’s	be	VERB	VBZ	_	3	conj	_	_
+9	no	no	DET	DT	Polarity=Neg	11	det	_	_
+10	examining	examining	NOUN	NN	_	11	compound	_	_
+11	couch	couch	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-7
+# text = There’s just a desk, a little white table with two chairs and a scale.
+1	There	there	PRON	EX	_	2	expl	_	SpaceAfter=No
+2	’s	be	VERB	VBZ	_	0	root	_	_
+3	just	just	ADV	RB	_	5	advmod	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	desk	desk	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	10	punct	_	_
+7	a	a	DET	DT	_	10	det	_	_
+8	little	little	ADJ	JJ	_	10	amod	_	_
+9	white	white	ADJ	JJ	_	10	amod	_	_
+10	table	table	NOUN	NN	_	5	conj	_	_
+11	with	with	ADP	IN	_	13	case	_	_
+12	two	two	NUM	CD	_	13	nummod	_	_
+13	chairs	chair	NOUN	NNS	_	10	nmod	_	_
+14	and	and	CCONJ	CC	_	16	cc	_	_
+15	a	a	DET	DT	_	16	det	_	_
+16	scale	scale	NOUN	NN	_	5	conj	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-8
+# text = The doctor, a woman I don’t know, is sitting in the other chair.
+1	The	the	DET	DT	_	2	det	_	_
+2	doctor	doctor	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	5	punct	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	woman	woman	NOUN	NN	_	2	appos	_	_
+6	I	I	PRON	PRP	_	9	nsubj	_	_
+7	do	do	AUX	VBP	_	9	aux	_	SpaceAfter=No
+8	n’t	n't	PART	RB	Polarity=Neg	9	advmod	_	_
+9	know	know	VERB	VB	_	5	acl:relcl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	2	punct	_	_
+11	is	be	AUX	VBZ	_	12	aux	_	_
+12	sitting	sit	VERB	VBG	_	0	root	_	_
+13	in	in	ADP	IN	_	16	case	_	_
+14	the	the	DET	DT	_	16	det	_	_
+15	other	other	ADJ	JJ	_	16	amod	_	_
+16	chair	chair	NOUN	NN	_	12	obl	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	12	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-9
+# text = My mother is bewildered, her face turned up towards me.
+1	My	my	PRON	PRP$	_	2	nmod:poss	_	_
+2	mother	mother	NOUN	NN	_	4	nsubj:pass	_	_
+3	is	be	AUX	VBZ	_	4	aux:pass	_	_
+4	bewildered	bewilder	VERB	VBN	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	her	her	PRON	PRP$	_	7	nmod:poss	_	_
+7	face	face	NOUN	NN	_	8	nsubj:pass	_	_
+8	turned	turn	VERB	VBN	_	4	advcl	_	_
+9	up	up	ADP	RP	_	8	compound:prt	_	_
+10	towards	towards	ADP	IN	_	11	case	_	_
+11	me	me	PRON	PRP	_	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-10
+# text = She’s got Alzheimer’s.
+1	She	she	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	’s	have	AUX	VBZ	_	3	aux	_	_
+3	got	get	VERB	VBN	_	0	root	_	_
+4	Alzheimer	Alzheimer	PROPN	NNP	_	3	obj	_	SpaceAfter=No
+5	’s	's	PART	POS	_	4	case	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-11
+# speaker = Protagonist
+# text = “It’s okay, Mom,” I say.
+1	“	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
+2	It	it	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+3	’s	be	AUX	VBZ	_	4	cop	_	_
+4	okay	okay	ADJ	JJ	_	10	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	6	punct	_	_
+6	Mom	Mom	PROPN	NNP	_	4	vocative	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	4	punct	_	SpaceAfter=No
+8	”	"	PUNCT	''	_	4	punct	_	_
+9	I	I	PRON	PRP	_	10	nsubj	_	_
+10	say	say	VERB	VBP	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-12
+# text = She wants to understand, I can see that.
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	wants	want	VERB	VBZ	_	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	understand	understand	VERB	VB	_	2	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	I	I	PRON	PRP	_	8	nsubj	_	_
+7	can	can	AUX	MD	_	8	aux	_	_
+8	see	see	VERB	VB	_	2	parataxis	_	_
+9	that	that	PRON	DT	_	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-13
+# text = So I explain again.
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	explain	explain	VERB	VBP	_	0	root	_	_
+4	again	again	ADV	RB	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-14
+# speaker = Protagonist
+# text = “It’s an implant that will let them know where you are, and how you are.
+1	“	"	PUNCT	``	_	5	punct	_	SpaceAfter=No
+2	It	it	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+3	’s	be	AUX	VBZ	_	5	cop	_	_
+4	an	an	DET	DT	_	5	det	_	_
+5	implant	implant	NOUN	NN	_	0	root	_	_
+6	that	that	PRON	WDT	_	8	nsubj	_	_
+7	will	will	AUX	MD	_	8	aux	_	_
+8	let	let	VERB	VB	_	5	acl:relcl	_	_
+9	them	them	PRON	PRP	_	10	nsubj	_	_
+10	know	know	VERB	VB	_	8	ccomp	_	_
+11	where	where	SCONJ	WRB	_	13	advmod	_	_
+12	you	you	PRON	PRP	_	13	nsubj	_	_
+13	are	be	VERB	VBP	_	10	ccomp	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	18	punct	_	_
+15	and	and	CCONJ	CC	_	18	cc	_	_
+16	how	how	SCONJ	WRB	_	18	advmod	_	_
+17	you	you	PRON	PRP	_	18	nsubj	_	_
+18	are	be	VERB	VBP	_	13	conj	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-15
+# speaker = Protagonist
+# text = It won’t hurt.”
+1	It	it	PRON	PRP	_	4	nsubj	_	_
+2	wo	wo	AUX	MD	_	4	aux	_	SpaceAfter=No
+3	n’t	n't	PART	RB	_	4	advmod	_	_
+4	hurt	hurt	VERB	VB	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+6	”	"	PUNCT	''	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-16
+# text = Her eyes water constantly, now.
+1	Her	her	PRON	PRP$	_	2	nmod:poss	_	_
+2	eyes	eye	NOUN	NNS	_	3	nsubj	_	_
+3	water	water	VERB	VBP	_	0	root	_	_
+4	constantly	constantly	ADV	RB	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	6	punct	_	_
+6	now	now	ADV	RB	_	3	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-17
+# text = In the time it takes me to explain she grasps and loses the words, grasps and loses phrases as they go past.
+1	In	in	ADP	IN	_	3	case	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	time	time	NOUN	NN	_	10	obl	_	_
+4	it	it	PRON	PRP	_	5	nsubj	_	_
+5	takes	take	VERB	VBZ	_	3	acl:relcl	_	_
+6	me	me	PRON	PRP	_	5	obj	_	_
+7	to	to	PART	TO	_	8	mark	_	_
+8	explain	explain	VERB	VB	_	5	xcomp	_	_
+9	she	she	PRON	PRP	_	10	nsubj	_	_
+10	grasps	grasp	VERB	VBZ	_	0	root	_	_
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	loses	lose	VERB	VBZ	_	10	conj	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	words	word	NOUN	NNS	_	10	obj	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	16	punct	_	_
+16	grasps	grasp	NOUN	NNS	_	10	parataxis	_	_
+17	and	and	CCONJ	CC	_	18	cc	_	_
+18	loses	lose	VERB	VBZ	_	16	conj	_	_
+19	phrases	phrase	NOUN	NNS	_	18	obj	_	_
+20	as	as	SCONJ	IN	_	22	mark	_	_
+21	they	they	PRON	PRP	_	22	nsubj	_	_
+22	go	go	VERB	VBP	_	18	advcl	_	_
+23	past	past	ADJ	JJ	_	22	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	10	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-18
+# text = She looks at me and then at Renata, who is smiling, and finally submits uncomprehendingly.
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	looks	look	VERB	VBZ	_	0	root	_	_
+3	at	at	ADP	IN	_	4	case	_	_
+4	me	me	PRON	PRP	_	2	obl	_	_
+5	and	and	CCONJ	CC	_	8	cc	_	_
+6	then	then	ADV	RB	_	7	advmod	_	_
+7	at	at	ADP	IN	_	8	case	_	_
+8	Renata	Renata	PROPN	NNP	_	4	conj	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	who	who	PRON	WP	_	12	nsubj	_	_
+11	is	be	AUX	VBZ	_	12	aux	_	_
+12	smiling	smile	VERB	VBG	_	8	acl:relcl	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	16	punct	_	_
+14	and	and	CCONJ	CC	_	16	cc	_	_
+15	finally	finally	ADV	RB	_	16	advmod	_	_
+16	submits	submit	VERB	VBZ	_	2	conj	_	_
+17	uncomprehendingly	uncomprehendingly	ADV	RB	_	16	advmod	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-19
+# text = We have worn her down.
+1	We	we	PRON	PRP	_	3	nsubj	_	_
+2	have	have	AUX	VBP	_	3	aux	_	_
+3	worn	wear	VERB	VBN	_	0	root	_	_
+4	her	her	PRON	PRP	_	3	obj	_	_
+5	down	down	ADP	RP	_	3	compound:prt	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-20
+# text = The doctor bares my mother’s arm, where the crepey flesh hangs loosely on the bones.
+1	The	the	DET	DT	_	2	det	_	_
+2	doctor	doctor	NOUN	NN	_	3	nsubj	_	_
+3	bares	bare	VERB	VBZ	_	0	root	_	_
+4	my	my	PRON	PRP$	_	5	nmod:poss	_	_
+5	mother	mother	NOUN	NN	_	7	nmod:poss	_	SpaceAfter=No
+6	’s	's	PART	POS	_	5	case	_	_
+7	arm	arm	NOUN	NN	_	3	obj	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	13	punct	_	_
+9	where	where	SCONJ	WRB	_	13	advmod	_	_
+10	the	the	DET	DT	_	12	det	_	_
+11	crepey	crepey	ADJ	JJ	_	12	amod	_	_
+12	flesh	flesh	NOUN	NN	_	13	nsubj	_	_
+13	hangs	hang	VERB	VBZ	_	7	acl	_	_
+14	loosely	loosely	ADV	RB	_	13	advmod	_	_
+15	on	on	ADP	IN	_	17	case	_	_
+16	the	the	DET	DT	_	17	det	_	_
+17	bones	bone	NOUN	NNS	_	13	obl	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-21
+# text = The doctor swabs her upper arm with antiseptic and says, “I’m going to give you something to numb it, okay?”
+1	The	the	DET	DT	_	2	det	_	_
+2	doctor	doctor	NOUN	NN	_	3	nsubj	_	_
+3	swabs	swab	VERB	VBZ	_	0	root	_	_
+4	her	her	PRON	PRP$	_	6	nmod:poss	_	_
+5	upper	upper	ADJ	JJ	_	6	amod	_	_
+6	arm	arm	NOUN	NN	_	3	obj	_	_
+7	with	with	ADP	IN	_	8	case	_	_
+8	antiseptic	antiseptic	NOUN	NN	_	3	obl	_	_
+9	and	and	CCONJ	CC	_	10	cc	_	_
+10	says	say	VERB	VBZ	_	3	conj	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	15	punct	_	_
+12	“	"	PUNCT	``	_	15	punct	_	SpaceAfter=No
+13	I	I	PRON	PRP	_	15	nsubj	_	SpaceAfter=No
+14	’m	be	AUX	VBP	_	15	aux	_	_
+15	going	go	VERB	VBG	_	10	ccomp	_	_
+16	to	to	PART	TO	_	17	mark	_	_
+17	give	give	VERB	VB	_	15	xcomp	_	_
+18	you	you	PRON	PRP	_	17	iobj	_	_
+19	something	something	NOUN	NN	_	17	obj	_	_
+20	to	to	PART	TO	_	21	mark	_	_
+21	numb	numb	VERB	VB	_	17	advcl	_	_
+22	it	it	PRON	PRP	_	21	obj	_	SpaceAfter=No
+23	,	,	PUNCT	,	_	24	punct	_	_
+24	okay	okay	ADJ	JJ	_	15	discourse	_	SpaceAfter=No
+25	?	?	PUNCT	.	_	15	punct	_	SpaceAfter=No
+26	”	"	PUNCT	''	_	15	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-22
+# text = To me the doctor says in her normal voice, “It’s just a little lidocaine.”
+1	To	To	ADP	TO	_	2	case	_	_
+2	me	me	PRON	PRP	_	5	obl	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	doctor	doctor	NOUN	NN	_	5	nsubj	_	_
+5	says	say	VERB	VBZ	_	0	root	_	_
+6	in	in	ADP	IN	_	9	case	_	_
+7	her	her	PRON	PRP$	_	9	nmod:poss	_	_
+8	normal	normal	ADJ	JJ	_	9	amod	_	_
+9	voice	voice	NOUN	NN	_	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	17	punct	_	_
+11	“	"	PUNCT	``	_	17	punct	_	SpaceAfter=No
+12	It	it	PRON	PRP	_	17	nsubj	_	SpaceAfter=No
+13	’s	be	AUX	VBZ	_	17	cop	_	_
+14	just	just	ADV	RB	_	17	advmod	_	_
+15	a	a	DET	DT	_	17	det	_	_
+16	little	little	ADJ	JJ	_	17	amod	_	_
+17	lidocaine	lidocaine	NOUN	NN	_	5	ccomp	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	17	punct	_	SpaceAfter=No
+19	”	"	PUNCT	''	_	17	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-23
+# text = I don’t like the doctor, but I don’t know why.
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	do	do	AUX	VBP	_	4	aux	_	SpaceAfter=No
+3	n’t	n't	PART	RB	_	4	advmod	_	_
+4	like	like	VERB	VB	_	0	root	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	doctor	doctor	NOUN	NN	_	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	12	punct	_	_
+8	but	but	CCONJ	CC	_	12	cc	_	_
+9	I	I	PRON	PRP	_	12	nsubj	_	_
+10	do	do	AUX	VBP	_	12	aux	_	SpaceAfter=No
+11	n’t	n't	PART	RB	_	12	advmod	_	_
+12	know	know	VERB	VB	_	4	conj	_	_
+13	why	why	SCONJ	WRB	_	12	ccomp	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-24
+# text = She is no-nonsense.
+1	She	she	PRON	PRP	_	3	nsubj	_	_
+2	is	be	AUX	VBZ	_	3	cop	_	_
+3	no-nonsense	no-nonsense	ADJ	JJ	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-25
+# text = She has professional hair, lightly streaked.
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	has	have	VERB	VBZ	_	0	root	_	_
+3	professional	professional	ADJ	JJ	_	4	amod	_	_
+4	hair	hair	NOUN	NN	_	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	7	punct	_	_
+6	lightly	lightly	ADV	RB	_	7	advmod	_	_
+7	streaked	streak	VERB	VBN	_	4	amod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-26
+# text = This is no reason to dislike her.
+1	This	this	PRON	DT	_	4	nsubj	_	_
+2	is	be	AUX	VBZ	_	4	cop	_	_
+3	no	no	DET	DT	Polarity=Neg	4	det	_	_
+4	reason	reason	NOUN	NN	_	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	dislike	dislike	VERB	VB	_	4	acl	_	_
+7	her	her	PRON	PRP	_	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-27
+# text = My mother winces at the injection and is surprised again.
+1	My	my	PRON	PRP$	_	2	nmod:poss	_	_
+2	mother	mother	NOUN	NN	_	3	nsubj	_	_
+3	winces	wince	VERB	VBZ	_	0	root	_	_
+4	at	at	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	injection	injection	NOUN	NN	_	3	obl	_	_
+7	and	and	CCONJ	CC	_	9	cc	_	_
+8	is	be	AUX	VBZ	_	9	aux:pass	_	_
+9	surprised	surprise	VERB	VBN	_	3	conj	_	_
+10	again	again	ADV	RB	_	9	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-28
+# text = She looks up at me, at Renata.
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	looks	look	VERB	VBZ	_	0	root	_	_
+3	up	up	ADP	RP	_	2	compound:prt	_	_
+4	at	at	ADP	IN	_	5	case	_	_
+5	me	me	PRON	PRP	_	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	at	at	ADP	IN	_	8	case	_	_
+8	Renata	Renata	PROPN	NNP	_	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-29
+# text = We are smiling, both of us.
+1	We	we	PRON	PRP	_	3	nsubj	_	_
+2	are	be	AUX	VBP	_	3	aux	_	_
+3	smiling	smile	VERB	VBG	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	both	both	CCONJ	CC	_	3	advmod	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	us	us	PRON	PRP	_	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-30
+# speaker = Mother
+# text = “Okay,” my mother says.
+1	“	"	PUNCT	``	_	2	punct	_	SpaceAfter=No
+2	Okay	okay	INTJ	UH	_	7	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	SpaceAfter=No
+4	”	"	PUNCT	''	_	2	punct	_	_
+5	my	my	PRON	PRP$	_	6	nmod:poss	_	_
+6	mother	mother	NOUN	NN	_	7	nsubj	_	_
+7	says	say	VERB	VBZ	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
+
+# s_type = wh
+# sent_id = GUM_fiction_oversite-31
+# text = What is okay?
+1	What	What	PRON	WP	_	3	nsubj	_	_
+2	is	be	AUX	VBZ	_	3	cop	_	_
+3	okay	okay	ADJ	JJ	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-32
+# text = I have no idea.
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	have	have	VERB	VBP	_	0	root	_	_
+3	no	no	DET	DT	Polarity=Neg	4	det	_	_
+4	idea	idea	NOUN	NN	_	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-33
+# text = We wait for a few minutes.
+1	We	we	PRON	PRP	_	2	nsubj	_	_
+2	wait	wait	VERB	VBP	_	0	root	_	_
+3	for	for	ADP	IN	_	6	case	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	few	few	ADJ	JJ	_	6	amod	_	_
+6	minutes	minute	NOUN	NNS	_	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-34
+# text = My mother says, “Is it time to go?”
+1	My	my	PRON	PRP$	_	2	nsubj	_	_
+2	mother	mother	NOUN	NN	_	0	root	_	_
+3	says	say	VERB	VBZ	_	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	_	_
+5	“	"	PUNCT	``	_	8	punct	_	SpaceAfter=No
+6	Is	be	AUX	VBZ	_	8	cop	_	_
+7	it	it	PRON	PRP	_	8	nsubj	_	_
+8	time	time	NOUN	NN	_	3	ccomp	_	_
+9	to	to	PART	TO	_	10	mark	_	_
+10	go	go	VERB	VB	_	8	acl	_	SpaceAfter=No
+11	?	?	PUNCT	.	_	8	punct	_	SpaceAfter=No
+12	”	"	PUNCT	''	_	8	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-35
+# speaker = Protagonist
+# text = “Not yet,” I say.
+1	“	"	PUNCT	``	_	3	punct	_	SpaceAfter=No
+2	Not	not	PART	RB	Polarity=Neg	3	advmod	_	_
+3	yet	yet	ADV	RB	_	7	ccomp	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	SpaceAfter=No
+5	”	"	PUNCT	''	_	3	punct	_	_
+6	I	I	PRON	PRP	_	7	nsubj	_	_
+7	say	say	VERB	VBP	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-36
+# speaker = Protagonist
+# text = “They ’re going to give you an injection.”
+1	“	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
+2	They	they	PRON	PRP	_	4	nsubj	_	_
+3	’re	be	AUX	VBP	_	4	aux	_	_
+4	going	go	VERB	VBG	_	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	give	give	VERB	VB	_	4	xcomp	_	_
+7	you	you	PRON	PRP	_	6	iobj	_	_
+8	an	an	DET	DT	_	9	det	_	_
+9	injection	injection	NOUN	NN	_	6	obj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+11	”	"	PUNCT	''	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-37
+# speaker = Mother
+# text = “What?” my mother says.
+1	“	"	PUNCT	``	_	2	punct	_	SpaceAfter=No
+2	What	What	PRON	WP	_	7	ccomp	_	SpaceAfter=No
+3	?	?	PUNCT	.	_	2	punct	_	SpaceAfter=No
+4	”	"	PUNCT	''	_	2	punct	_	_
+5	my	my	PRON	PRP$	_	6	nmod:poss	_	_
+6	mother	mother	NOUN	NN	_	7	nsubj	_	_
+7	says	say	VERB	VBZ	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-38
+# speaker = Protagonist
+# text = “They ’re going to implant a chip.
+1	“	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
+2	They	they	PRON	PRP	_	4	nsubj	_	_
+3	’re	be	AUX	VBP	_	4	aux	_	_
+4	going	go	VERB	VBG	_	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	implant	implant	VERB	VB	_	4	xcomp	_	_
+7	a	a	DET	DT	_	8	det	_	_
+8	chip	chip	NOUN	NN	_	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-39
+# speaker = Protagonist
+# text = It will help them take care of you.”
+1	It	it	PRON	PRP	_	3	nsubj	_	_
+2	will	will	AUX	MD	_	3	aux	_	_
+3	help	help	VERB	VB	_	0	root	_	_
+4	them	them	PRON	PRP	_	3	obj	_	_
+5	take	take	VERB	VB	_	3	xcomp	_	_
+6	care	care	NOUN	NN	_	5	obj	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	you	you	PRON	PRP	_	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+10	”	"	PUNCT	''	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-40
+# text = I try to say it every time as if it was the first time I said it.
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	try	try	VERB	VBP	_	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	say	say	VERB	VB	_	2	xcomp	_	_
+5	it	it	PRON	PRP	_	4	obj	_	_
+6	every	every	DET	DT	_	7	det	_	_
+7	time	time	NOUN	NN	_	4	obl:tmod	_	_
+8	as	as	SCONJ	RB	_	14	mark	_	_
+9	if	if	SCONJ	IN	_	14	mark	_	_
+10	it	it	PRON	PRP	_	14	nsubj	_	_
+11	was	be	AUX	VBD	_	14	cop	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	first	first	ADJ	JJ	_	14	amod	_	_
+14	time	time	NOUN	NN	_	4	advcl	_	_
+15	I	I	PRON	PRP	_	16	nsubj	_	_
+16	said	say	VERB	VBD	_	14	acl:relcl	_	_
+17	it	it	PRON	PRP	_	16	obj	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-41
+# text = I don’t want to embarrass her.
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	do	do	AUX	VBP	_	4	aux	_	SpaceAfter=No
+3	n’t	n't	PART	RB	Polarity=Neg	4	advmod	_	_
+4	want	want	VERB	VB	_	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	embarrass	embarrass	VERB	VB	_	4	xcomp	_	_
+7	her	her	PRON	PRP	_	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-42
+# text = Her head swings around, from Renata to me to the doctor and then back to Renata.
+1	Her	her	PRON	PRP$	_	2	nmod:poss	_	_
+2	head	head	NOUN	NN	_	3	nsubj	_	_
+3	swings	swing	VERB	VBZ	_	0	root	_	_
+4	around	around	ADV	RB	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	7	punct	_	_
+6	from	from	ADP	IN	_	7	case	_	_
+7	Renata	Renata	PROPN	NNP	_	3	obl	_	_
+8	to	to	ADP	TO	_	9	case	_	_
+9	me	me	PRON	PRP	_	7	conj	_	_
+10	to	to	ADP	TO	_	12	case	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	doctor	doctor	NOUN	NN	_	7	conj	_	_
+13	and	and	CCONJ	CC	_	17	cc	_	_
+14	then	then	ADV	RB	_	17	advmod	_	_
+15	back	back	ADV	RB	_	17	advmod	_	_
+16	to	to	ADP	TO	_	17	case	_	_
+17	Renata	Renata	PROPN	NNP	_	7	conj	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-43
+# speaker = Renata
+# text = “It’s okay, Gram,” Renata says.
+1	“	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
+2	It	it	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+3	’s	be	AUX	VBZ	_	4	cop	_	_
+4	okay	okay	ADJ	JJ	_	10	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	6	punct	_	_
+6	Gram	Gram	PROPN	NNP	_	4	vocative	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	4	punct	_	SpaceAfter=No
+8	”	"	PUNCT	''	_	4	punct	_	_
+9	Renata	Renata	PROPN	NNP	_	10	nsubj	_	_
+10	says	say	VERB	VBZ	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-44
+# speaker = Mother
+# text = “Renata,” my mother says.
+1	“	"	PUNCT	``	_	2	punct	_	SpaceAfter=No
+2	Renata	Renata	PROPN	NNP	_	7	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	SpaceAfter=No
+4	”	"	PUNCT	''	_	2	punct	_	_
+5	my	my	PRON	PRP$	_	6	nmod:poss	_	_
+6	mother	mother	NOUN	NN	_	7	nsubj	_	_
+7	says	say	VERB	VBZ	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-45
+# text = The doctor has an injection gun and while my mother is focused on my daughter, she puts it firmly against my mother’s arm and puts the chip in.
+1	The	the	DET	DT	_	2	det	_	_
+2	doctor	doctor	NOUN	NN	_	3	nsubj	_	_
+3	has	have	VERB	VBZ	_	0	root	_	_
+4	an	an	DET	DT	_	6	det	_	_
+5	injection	injection	NOUN	NN	_	6	compound	_	_
+6	gun	gun	NOUN	NN	_	3	obj	_	_
+7	and	and	CCONJ	CC	_	18	cc	_	_
+8	while	while	SCONJ	IN	_	12	mark	_	_
+9	my	my	PRON	PRP$	_	10	nmod:poss	_	_
+10	mother	mother	NOUN	NN	_	12	nsubj:pass	_	_
+11	is	be	AUX	VBZ	_	12	aux:pass	_	_
+12	focused	focus	VERB	VBN	_	18	advcl	_	_
+13	on	on	ADP	IN	_	15	case	_	_
+14	my	my	PRON	PRP$	_	15	nmod:poss	_	_
+15	daughter	daughter	NOUN	NN	_	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	12	punct	_	_
+17	she	she	PRON	PRP	_	18	nsubj	_	_
+18	puts	put	VERB	VBZ	_	3	conj	_	_
+19	it	it	PRON	PRP	_	18	obj	_	_
+20	firmly	firmly	ADV	RB	_	18	advmod	_	_
+21	against	against	ADP	IN	_	25	case	_	_
+22	my	my	PRON	PRP$	_	23	nmod:poss	_	_
+23	mother	mother	NOUN	NN	_	25	nmod:poss	_	SpaceAfter=No
+24	’s	's	PART	POS	_	23	case	_	_
+25	arm	arm	NOUN	NN	_	18	obl	_	_
+26	and	and	CCONJ	CC	_	27	cc	_	_
+27	puts	put	VERB	VBZ	_	18	conj	_	_
+28	the	the	DET	DT	_	29	det	_	_
+29	chip	chip	NOUN	NN	_	27	obj	_	_
+30	in	in	ADP	RP	_	27	compound:prt	_	SpaceAfter=No
+31	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-46
+# speaker = Mother
+# text = “Oh!” says my mother.
+1	“	"	PUNCT	``	_	2	punct	_	SpaceAfter=No
+2	Oh	oh	INTJ	UH	_	5	ccomp	_	SpaceAfter=No
+3	!	!	PUNCT	.	_	2	punct	_	SpaceAfter=No
+4	”	"	PUNCT	''	_	2	punct	_	_
+5	says	say	VERB	VBZ	_	0	root	_	_
+6	my	my	PRON	PRP$	_	7	nmod:poss	_	_
+7	mother	mother	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-47
+# text = It’s another low-grade moment of horror, but I think about that particular time with my mother because Renata was there and we were united, she and I.
+1	It	it	PRON	PRP	_	5	nsubj	_	SpaceAfter=No
+2	’s	be	AUX	VBZ	_	5	cop	_	_
+3	another	another	DET	DT	_	5	det	_	_
+4	low-grade	low-grade	ADJ	JJ	_	5	amod	_	_
+5	moment	moment	NOUN	NN	_	0	root	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	horror	horror	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	11	punct	_	_
+9	but	but	CCONJ	CC	_	11	cc	_	_
+10	I	I	PRON	PRP	_	11	nsubj	_	_
+11	think	think	VERB	VBP	_	5	conj	_	_
+12	about	about	ADP	IN	_	15	case	_	_
+13	that	that	DET	DT	_	15	det	_	_
+14	particular	particular	ADJ	JJ	_	15	amod	_	_
+15	time	time	NOUN	NN	_	11	obl	_	_
+16	with	with	ADP	IN	_	18	case	_	_
+17	my	my	PRON	PRP$	_	18	nmod:poss	_	_
+18	mother	mother	NOUN	NN	_	15	nmod	_	_
+19	because	because	SCONJ	IN	_	22	mark	_	_
+20	Renata	Renata	PROPN	NNP	_	22	nsubj	_	_
+21	was	be	AUX	VBD	_	22	cop	_	_
+22	there	there	ADV	RB	_	11	advcl	_	_
+23	and	and	CCONJ	CC	_	26	cc	_	_
+24	we	we	PRON	PRP	_	26	nsubj:pass	_	_
+25	were	be	AUX	VBD	_	26	aux:pass	_	_
+26	united	unite	VERB	VBN	_	22	conj	_	SpaceAfter=No
+27	,	,	PUNCT	,	_	28	punct	_	_
+28	she	she	PRON	PRP	_	26	dislocated	_	_
+29	and	and	CCONJ	CC	_	30	cc	_	_
+30	I	I	PRON	PRP	_	28	conj	_	SpaceAfter=No
+31	.	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-48
+# text = So that’s a good memory.
+1	So	so	ADV	RB	_	6	advmod	_	_
+2	that	that	PRON	DT	_	6	nsubj	_	SpaceAfter=No
+3	’s	be	AUX	VBZ	_	6	cop	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	good	good	ADJ	JJ	_	6	amod	_	_
+6	memory	memory	NOUN	NN	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-49
+# text = I come back to it a lot.
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	come	come	VERB	VBP	_	0	root	_	_
+3	back	back	ADV	RB	_	2	advmod	_	_
+4	to	to	ADP	TO	_	5	case	_	_
+5	it	it	PRON	PRP	_	2	obl	_	_
+6	a	a	DET	DT	_	7	det	_	_
+7	lot	lot	NOUN	NN	_	2	obl:npmod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-50
+# text = In the background, shining, is Renata, who is young and healthy and good, raising her arm to show her grandmother that the chip is nothing, nothing at all.
+1	In	in	ADP	IN	_	3	case	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	background	background	NOUN	NN	_	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	shining	shine	VERB	VBG	_	7	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	5	punct	_	_
+7	is	be	VERB	VBZ	_	0	root	_	_
+8	Renata	Renata	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	who	who	PRON	WP	_	12	nsubj	_	_
+11	is	be	AUX	VBZ	_	12	cop	_	_
+12	young	young	ADJ	JJ	_	8	acl:relcl	_	_
+13	and	and	CCONJ	CC	_	14	cc	_	_
+14	healthy	healthy	ADJ	JJ	_	12	conj	_	_
+15	and	and	CCONJ	CC	_	16	cc	_	_
+16	good	good	ADJ	JJ	_	12	conj	_	SpaceAfter=No
+17	,	,	PUNCT	,	_	18	punct	_	_
+18	raising	raise	VERB	VBG	_	7	advcl	_	_
+19	her	her	PRON	PRP$	_	20	nmod:poss	_	_
+20	arm	arm	NOUN	NN	_	18	obj	_	_
+21	to	to	PART	TO	_	22	mark	_	_
+22	show	show	VERB	VB	_	18	advcl	_	_
+23	her	her	PRON	PRP$	_	24	nmod:poss	_	_
+24	grandmother	grandmother	NOUN	NN	_	22	obj	_	_
+25	that	that	SCONJ	IN	_	29	mark	_	_
+26	the	the	DET	DT	_	27	det	_	_
+27	chip	chip	NOUN	NN	_	29	nsubj	_	_
+28	is	be	AUX	VBZ	_	29	cop	_	_
+29	nothing	nothing	NOUN	NN	_	22	ccomp	_	SpaceAfter=No
+30	,	,	PUNCT	,	_	31	punct	_	_
+31	nothing	nothing	NOUN	NN	_	29	appos	_	_
+32	at	at	ADP	IN	_	33	case	_	_
+33	all	all	PRON	DT	_	31	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	.	_	7	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-51
+# text = The last two nights I have dreamed of dogs in trouble.
+1	The	the	DET	DT	_	4	det	_	_
+2	last	last	ADJ	JJ	_	4	amod	_	_
+3	two	two	NUM	CD	_	4	nummod	_	_
+4	nights	night	NOUN	NNS	_	7	obl:tmod	_	_
+5	I	I	PRON	PRP	_	7	nsubj	_	_
+6	have	have	AUX	VBP	_	7	aux	_	_
+7	dreamed	dream	VERB	VBN	_	0	root	_	_
+8	of	of	ADP	IN	_	9	case	_	_
+9	dogs	dog	NOUN	NNS	_	7	obl	_	_
+10	in	in	ADP	IN	_	11	case	_	_
+11	trouble	trouble	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	7	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-52
+# text = I don’t dream about Renata, although when the dreams wake me up, it’s thinking about Renata that keeps me awake.
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	do	do	AUX	VBP	_	4	aux	_	SpaceAfter=No
+3	n’t	n't	PART	RB	Polarity=Neg	4	advmod	_	_
+4	dream	dream	VERB	VB	_	0	root	_	_
+5	about	about	ADP	IN	_	6	case	_	_
+6	Renata	Renata	PROPN	NNP	_	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	18	punct	_	_
+8	although	although	SCONJ	IN	_	18	mark	_	_
+9	when	when	SCONJ	WRB	_	12	advmod	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	dreams	dream	NOUN	NNS	_	12	nsubj	_	_
+12	wake	wake	VERB	VBP	_	18	advcl	_	_
+13	me	me	PRON	PRP	_	12	obj	_	_
+14	up	up	ADP	RP	_	12	compound:prt	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	12	punct	_	_
+16	it	it	PRON	PRP	_	18	nsubj	_	SpaceAfter=No
+17	’s	be	AUX	VBZ	_	18	cop	_	_
+18	thinking	think	VERB	VBG	_	4	advcl	_	_
+19	about	about	ADP	IN	_	20	case	_	_
+20	Renata	Renata	PROPN	NNP	_	18	obl	_	_
+21	that	that	PRON	WDT	_	22	nsubj	_	_
+22	keeps	keep	VERB	VBZ	_	18	acl:relcl	_	_
+23	me	me	PRON	PRP	_	22	obj	_	_
+24	awake	awake	ADV	RB	_	22	xcomp	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-53
+# text = The first night I dreamed of seeing a stray dog and not stopping to pick it up although it was wandering in an empty parking lot near a busy road.
+1	The	the	DET	DT	_	3	det	_	_
+2	first	first	ADJ	JJ	_	3	amod	_	_
+3	night	night	NOUN	NN	_	5	obl:tmod	_	_
+4	I	I	PRON	PRP	_	5	nsubj	_	_
+5	dreamed	dream	VERB	VBD	_	0	root	_	_
+6	of	of	SCONJ	IN	_	7	mark	_	_
+7	seeing	see	VERB	VBG	_	5	advcl	_	_
+8	a	a	DET	DT	_	10	det	_	_
+9	stray	stray	ADJ	JJ	_	10	amod	_	_
+10	dog	dog	NOUN	NN	_	7	obj	_	_
+11	and	and	CCONJ	CC	_	13	cc	_	_
+12	not	not	PART	RB	Polarity=Neg	13	advmod	_	_
+13	stopping	stop	VERB	VBG	_	7	conj	_	_
+14	to	to	PART	TO	_	15	mark	_	_
+15	pick	pick	VERB	VB	_	13	xcomp	_	_
+16	it	it	PRON	PRP	_	15	obj	_	_
+17	up	up	ADP	RP	_	15	compound:prt	_	_
+18	although	although	SCONJ	IN	_	21	mark	_	_
+19	it	it	PRON	PRP	_	21	nsubj	_	_
+20	was	be	AUX	VBD	_	21	aux	_	_
+21	wandering	wander	VERB	VBG	_	13	advcl	_	_
+22	in	in	ADP	IN	_	26	case	_	_
+23	an	an	DET	DT	_	26	det	_	_
+24	empty	empty	ADJ	JJ	_	26	amod	_	_
+25	parking	parking	NOUN	NN	_	26	compound	_	_
+26	lot	lot	NOUN	NN	_	21	obl	_	_
+27	near	near	ADP	IN	_	30	case	_	_
+28	a	a	DET	DT	_	30	det	_	_
+29	busy	busy	ADJ	JJ	_	30	amod	_	_
+30	road	road	NOUN	NN	_	26	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-54
+# text = That was the first night Renata didn’t come home and it doesn’t take Freud to figure out what that meant.
+1	That	that	PRON	DT	_	5	nsubj	_	_
+2	was	be	AUX	VBD	_	5	cop	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	first	first	ADJ	JJ	_	5	amod	_	_
+5	night	night	NOUN	NN	_	0	root	_	_
+6	Renata	Renata	PROPN	NNP	_	9	nsubj	_	_
+7	did	do	AUX	VBD	_	9	aux	_	SpaceAfter=No
+8	n’t	n't	PART	RB	Polarity=Neg	9	advmod	_	_
+9	come	come	VERB	VB	_	5	acl:relcl	_	_
+10	home	home	ADV	RB	_	9	advmod	_	_
+11	and	and	CCONJ	CC	_	15	cc	_	_
+12	it	it	PRON	PRP	_	15	nsubj	_	_
+13	does	do	AUX	VBZ	_	15	aux	_	SpaceAfter=No
+14	n’t	n't	PART	RB	Polarity=Neg	15	advmod	_	_
+15	take	take	VERB	VB	_	5	conj	_	_
+16	Freud	Freud	PROPN	NNP	_	15	obj	_	_
+17	to	to	PART	TO	_	18	mark	_	_
+18	figure	figure	VERB	VB	_	15	xcomp	_	_
+19	out	out	ADP	RP	_	18	compound:prt	_	_
+20	what	what	PRON	WP	_	22	obj	_	_
+21	that	that	PRON	DT	_	22	nsubj	_	_
+22	meant	mean	VERB	VBD	_	18	ccomp	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-55
+# text = Seventeen-year-olds sleep on friends’ couches, I know.
+1	Seventeen-year-olds	Seventeen-year-old	NOUN	NNS	_	2	nsubj	_	_
+2	sleep	sleep	VERB	VBP	_	9	ccomp	_	_
+3	on	on	ADP	IN	_	6	case	_	_
+4	friends	friend	NOUN	NNS	_	6	nmod:poss	_	SpaceAfter=No
+5	’	's	PART	POS	_	4	case	_	_
+6	couches	couch	NOUN	NNS	_	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	I	I	PRON	PRP	_	9	nsubj	_	_
+9	know	know	VERB	VBP	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	_	_
+
+# s_type = sub
+# sent_id = GUM_fiction_oversite-56
+# text = Or Renata might be sleeping in her car.
+1	Or	or	CCONJ	CC	_	5	cc	_	_
+2	Renata	Renata	PROPN	NNP	_	5	nsubj	_	_
+3	might	might	AUX	MD	_	5	aux	_	_
+4	be	be	AUX	VB	_	5	aux	_	_
+5	sleeping	sleep	VERB	VBG	_	0	root	_	_
+6	in	in	ADP	IN	_	8	case	_	_
+7	her	her	PRON	PRP$	_	8	nmod:poss	_	_
+8	car	car	NOUN	NN	_	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-57
+# text = The second night I dreamed that I was on a desert island and Sonia, our golden retriever, was with me.
+1	The	the	DET	DT	_	3	det	_	_
+2	second	second	ADJ	JJ	_	3	amod	_	_
+3	night	night	NOUN	NN	_	5	obl:tmod	_	_
+4	I	I	PRON	PRP	_	5	nsubj	_	_
+5	dreamed	dream	VERB	VBD	_	0	root	_	_
+6	that	that	SCONJ	IN	_	12	mark	_	_
+7	I	I	PRON	PRP	_	12	nsubj	_	_
+8	was	be	AUX	VBD	_	12	cop	_	_
+9	on	on	ADP	IN	_	12	case	_	_
+10	a	a	DET	DT	_	12	det	_	_
+11	desert	desert	NOUN	NN	_	12	compound	_	_
+12	island	island	NOUN	NN	_	5	ccomp	_	_
+13	and	and	CCONJ	CC	_	20	cc	_	_
+14	Sonia	Sonia	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	18	punct	_	_
+16	our	our	PRON	PRP$	_	18	nmod:poss	_	_
+17	golden	golden	ADJ	JJ	_	18	amod	_	_
+18	retriever	retriever	NOUN	NN	_	14	appos	_	SpaceAfter=No
+19	,	,	PUNCT	,	_	14	punct	_	_
+20	was	be	VERB	VBD	_	12	conj	_	_
+21	with	with	ADP	IN	_	22	case	_	_
+22	me	me	PRON	PRP	_	20	obl	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = other
+# sent_id = GUM_fiction_oversite-58
+# text = There was some horrible fate impending for Sonia and I had to kill her before something worse happened.
+1	There	There	PRON	EX	_	2	expl	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	some	some	DET	DT	_	5	det	_	_
+4	horrible	horrible	ADJ	JJ	_	5	amod	_	_
+5	fate	fate	NOUN	NN	_	2	nsubj	_	_
+6	impending	impend	VERB	VBG	_	5	acl	_	_
+7	for	for	ADP	IN	_	8	case	_	_
+8	Sonia	Sonia	PROPN	NNP	_	6	obl	_	_
+9	and	and	CCONJ	CC	_	11	cc	_	_
+10	I	I	PRON	PRP	_	11	nsubj	_	_
+11	had	have	VERB	VBD	_	2	conj	_	_
+12	to	to	PART	TO	_	13	mark	_	_
+13	kill	kill	VERB	VB	_	11	xcomp	_	_
+14	her	her	PRON	PRP	_	13	obj	_	_
+15	before	before	SCONJ	IN	_	18	mark	_	_
+16	something	something	NOUN	NN	_	18	nsubj	_	_
+17	worse	bad	ADJ	JJR	_	16	amod	_	_
+18	happened	happen	VERB	VBD	_	13	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-59
+# text = I laid her down on some sticks.
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	laid	lay	VERB	VBD	_	0	root	_	_
+3	her	her	PRON	PRP	_	2	obj	_	_
+4	down	down	ADP	RP	_	2	compound:prt	_	_
+5	on	on	ADP	IN	_	7	case	_	_
+6	some	some	DET	DT	_	7	det	_	_
+7	sticks	stick	NOUN	NNS	_	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-60
+# text = She trusts me, she’s more my dog than anyone’s, and she didn’t like it but for me she lay there.
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	trusts	trust	VERB	VBZ	_	0	root	_	_
+3	me	me	PRON	PRP	_	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	9	punct	_	_
+5	she	she	PRON	PRP	_	9	nsubj	_	SpaceAfter=No
+6	’s	be	AUX	VBZ	_	9	cop	_	_
+7	more	more	ADV	RBR	_	9	advmod	_	_
+8	my	my	PRON	PRP$	_	9	nmod:poss	_	_
+9	dog	dog	NOUN	NN	_	2	parataxis	_	_
+10	than	than	ADP	IN	_	11	case	_	_
+11	anyone	anyone	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+12	’s	's	PART	POS	_	11	case	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	18	punct	_	_
+14	and	and	CCONJ	CC	_	18	cc	_	_
+15	she	she	PRON	PRP	_	18	nsubj	_	_
+16	did	do	AUX	VBD	_	18	aux	_	SpaceAfter=No
+17	n’t	n't	PART	RB	Polarity=Neg	18	advmod	_	_
+18	like	like	VERB	VB	_	2	conj	_	_
+19	it	it	PRON	PRP	_	18	obj	_	_
+20	but	but	CCONJ	CC	_	24	cc	_	_
+21	for	for	ADP	IN	_	22	case	_	_
+22	me	me	PRON	PRP	_	24	obl	_	_
+23	she	she	PRON	PRP	_	24	nsubj	_	_
+24	lay	lie	VERB	VBD	_	18	conj	_	_
+25	there	there	ADV	RB	_	24	advmod	_	SpaceAfter=No
+26	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-61
+# text = In my dream I told her, “Stay, Sonia. Stay.”
+1	In	in	ADP	IN	_	3	case	_	_
+2	my	my	PRON	PRP$	_	3	nmod:poss	_	_
+3	dream	dream	NOUN	NN	_	5	obl	_	_
+4	I	I	PRON	PRP	_	5	nsubj	_	_
+5	told	tell	VERB	VBD	_	0	root	_	_
+6	her	her	PRON	PRP	_	5	iobj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	9	punct	_	_
+8	“	"	PUNCT	``	_	9	punct	_	SpaceAfter=No
+9	Stay	stay	VERB	VB	_	5	ccomp	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	Sonia	Sonia	PROPN	NNP	_	9	vocative	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	9	punct	_	_
+13	Stay	stay	VERB	VB	_	9	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	9	punct	_	SpaceAfter=No
+15	”	"	PUNCT	''	_	9	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-62
+# text = She stayed because I held her there by looking at her, the way you can sometimes will a dog into submission.
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	stayed	stay	VERB	VBD	_	0	root	_	_
+3	because	because	SCONJ	IN	_	5	mark	_	_
+4	I	I	PRON	PRP	_	5	nsubj	_	_
+5	held	hold	VERB	VBD	_	2	advcl	_	_
+6	her	her	PRON	PRP	_	5	obj	_	_
+7	there	there	ADV	RB	_	5	advmod	_	_
+8	by	by	SCONJ	IN	_	9	mark	_	_
+9	looking	look	VERB	VBG	_	5	advcl	_	_
+10	at	at	ADP	IN	_	11	case	_	_
+11	her	her	PRON	PRP	_	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	way	way	NOUN	NN	_	9	obl:npmod	_	_
+15	you	you	PRON	PRP	_	18	nsubj	_	_
+16	can	can	AUX	MD	_	18	aux	_	_
+17	sometimes	sometimes	ADV	RB	_	18	advmod	_	_
+18	will	will	VERB	VB	_	14	acl:relcl	_	_
+19	a	a	DET	DT	_	20	det	_	_
+20	dog	dog	NOUN	NN	_	18	obj	_	_
+21	into	into	ADP	IN	_	22	case	_	_
+22	submission	submission	NOUN	NN	_	18	obl	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-63
+# text = She stayed while I lit the fire.
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	stayed	stay	VERB	VBD	_	0	root	_	_
+3	while	while	SCONJ	IN	_	5	mark	_	_
+4	I	I	PRON	PRP	_	5	nsubj	_	_
+5	lit	light	VERB	VBD	_	2	advcl	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	fire	fire	NOUN	NN	_	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-64
+# text = And then the horror of it all hit me and I said, “Sonia, up!”
+1	And	and	CCONJ	CC	_	8	cc	_	_
+2	then	then	ADV	RB	_	8	obl:tmod	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	horror	horror	NOUN	NN	_	8	nsubj	_	_
+5	of	of	ADP	IN	_	6	case	_	_
+6	it	it	PRON	PRP	_	4	nmod	_	_
+7	all	all	DET	DT	_	6	det	_	_
+8	hit	hit	VERB	VBD	_	0	root	_	_
+9	me	me	PRON	PRP	_	8	obj	_	_
+10	and	and	CCONJ	CC	_	12	cc	_	_
+11	I	I	PRON	PRP	_	12	nsubj	_	_
+12	said	say	VERB	VBD	_	8	conj	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	17	punct	_	_
+14	“	"	PUNCT	``	_	17	punct	_	SpaceAfter=No
+15	Sonia	Sonia	PROPN	NNP	_	17	vocative	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	15	punct	_	_
+17	up	up	ADV	RB	_	12	ccomp	_	SpaceAfter=No
+18	!	!	PUNCT	.	_	17	punct	_	SpaceAfter=No
+19	”	"	PUNCT	''	_	17	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-65
+# text = And I woke up.
+1	And	and	CCONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	woke	wake	VERB	VBD	_	0	root	_	_
+4	up	up	ADP	RP	_	3	compound:prt	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_fiction_oversite-66
+# text = That was last night, the second night Renata didn’t come home.
+1	That	that	PRON	DT	_	4	nsubj	_	_
+2	was	be	AUX	VBD	_	4	cop	_	_
+3	last	last	ADJ	JJ	_	4	amod	_	_
+4	night	night	NOUN	NN	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	the	the	DET	DT	_	8	det	_	_
+7	second	second	ADJ	JJ	_	8	amod	_	_
+8	night	night	NOUN	NN	_	4	appos	_	_
+9	Renata	Renata	PROPN	NNP	_	12	nsubj	_	_
+10	did	do	AUX	VBD	_	12	aux	_	SpaceAfter=No
+11	n’t	n't	PART	RB	Polarity=Neg	12	advmod	_	_
+12	come	come	VERB	VB	_	8	acl:relcl	_	_
+13	home	home	ADV	RB	_	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	_	_
+

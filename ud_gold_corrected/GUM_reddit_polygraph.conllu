@@ -1,0 +1,1354 @@
+# newdoc id = GUM_reddit_polygraph
+# s_type = frag
+# sent_id = GUM_reddit_polygraph-1
+# text = The Hiring Process Vol. 3 / Polygraph and Deception Detection Devices
+1	___	the	DET	DT	_	3	det	_	_
+2	______	hiring	VERB	VBG	_	3	amod	_	_
+3	_______	process	NOUN	NN	_	0	root	_	_
+4	____	vol.	NOUN	NN	_	3	parataxis	_	_
+5	_	3	NUM	CD	_	4	nummod	_	_
+6	_	/	PUNCT	SYM	_	7	punct	_	_
+7	_________	polygraph	NOUN	NN	_	4	appos	_	_
+8	___	and	CCONJ	CC	_	11	cc	_	_
+9	_________	deception	NOUN	NN	_	10	compound	_	_
+10	_________	detection	NOUN	NN	_	11	compound	_	_
+11	_______	device	NOUN	NN	_	7	conj	_	_
+
+# s_type = frag
+# sent_id = GUM_reddit_polygraph-2
+# speaker = 10_96
+# text = Polygraph and other deception detection devices.
+1	_________	polygraph	NOUN	NN	_	0	root	_	_
+2	___	and	CCONJ	CC	_	6	cc	_	_
+3	_____	other	ADJ	JJ	_	6	amod	_	_
+4	_________	deception	NOUN	NN	_	5	compound	_	_
+5	_________	detection	NOUN	NN	_	6	compound	_	_
+6	_______	device	NOUN	NNS	_	1	conj	_	SpaceAfter=No
+7	_	.	PUNCT	.	_	1	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-3
+# speaker = 10_96
+# text = First, this is not me telling you how to beat polygraph (poly.)
+1	_____	first	ADV	RB	_	7	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	____	this	PRON	DT	_	7	nsubj	_	_
+4	__	be	AUX	VBZ	_	7	cop	_	_
+5	___	not	PART	RB	Polarity=Neg	7	advmod	_	_
+6	__	me	PRON	PRP	_	7	nsubj	_	_
+7	_______	tell	VERB	VBG	_	0	root	_	_
+8	___	you	PRON	PRP	_	7	iobj	_	_
+9	___	how	SCONJ	WRB	_	11	advmod	_	_
+10	__	to	PART	TO	_	11	mark	_	_
+11	____	beat	VERB	VB	_	7	ccomp	_	_
+12	_________	polygraph	NOUN	NN	_	11	obj	_	_
+13	_	(	PUNCT	-LRB-	_	14	punct	_	SpaceAfter=No
+14	____	poly	NOUN	NN	_	12	appos	_	SpaceAfter=No
+15	_	.	PUNCT	.	_	14	punct	_	SpaceAfter=No
+16	_	)	PUNCT	-RRB-	_	14	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-4
+# speaker = 10_96
+# text = When taking the test, it is common for the examiner to ask if you have researched how to pass the poly deceptively.
+1	____	when	SCONJ	WRB	_	2	advmod	_	_
+2	______	take	VERB	VBG	_	8	advcl	_	_
+3	___	the	DET	DT	_	4	det	_	_
+4	____	test	NOUN	NN	_	2	obj	_	SpaceAfter=No
+5	_	,	PUNCT	,	_	2	punct	_	_
+6	__	it	PRON	PRP	_	8	nsubj	_	_
+7	__	be	AUX	VBZ	_	8	cop	_	_
+8	______	common	ADJ	JJ	_	0	root	_	_
+9	___	for	SCONJ	IN	_	13	mark	_	_
+10	___	the	DET	DT	_	11	det	_	_
+11	________	examiner	NOUN	NN	_	13	nsubj	_	_
+12	__	to	PART	TO	_	13	mark	_	_
+13	___	ask	VERB	VB	_	8	ccomp	_	_
+14	__	if	SCONJ	IN	_	17	mark	_	_
+15	___	you	PRON	PRP	_	17	nsubj	_	_
+16	____	have	AUX	VBP	_	17	aux	_	_
+17	__________	research	VERB	VBN	_	13	ccomp	_	_
+18	___	how	SCONJ	WRB	_	20	advmod	_	_
+19	__	to	PART	TO	_	20	mark	_	_
+20	____	pass	VERB	VB	_	17	ccomp	_	_
+21	___	the	DET	DT	_	22	det	_	_
+22	____	poly	NOUN	NN	_	20	obj	_	_
+23	___________	deceptively	ADV	RB	_	20	advmod	_	SpaceAfter=No
+24	_	.	PUNCT	.	_	8	punct	_	_
+
+# s_type = imp
+# sent_id = GUM_reddit_polygraph-5
+# speaker = 10_96
+# text = So, if you read this, understand that I am not going to tell you how to beat the test.
+1	__	so	ADV	RB	_	8	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	__	if	SCONJ	IN	_	5	mark	_	_
+4	___	you	PRON	PRP	_	5	nsubj	_	_
+5	____	read	VERB	VBP	_	8	advcl	_	_
+6	____	this	PRON	DT	_	5	obj	_	SpaceAfter=No
+7	_	,	PUNCT	,	_	5	punct	_	_
+8	__________	understand	VERB	VB	_	0	root	_	_
+9	____	that	SCONJ	IN	_	13	mark	_	_
+10	_	I	PRON	PRP	_	13	nsubj	_	_
+11	__	be	AUX	VBP	_	13	aux	_	_
+12	___	not	PART	RB	Polarity=Neg	13	advmod	_	_
+13	_____	go	VERB	VBG	_	8	ccomp	_	_
+14	__	to	PART	TO	_	15	mark	_	_
+15	____	tell	VERB	VB	_	13	xcomp	_	_
+16	___	you	PRON	PRP	_	15	iobj	_	_
+17	___	how	SCONJ	WRB	_	19	advmod	_	_
+18	__	to	PART	TO	_	19	mark	_	_
+19	____	beat	VERB	VB	_	15	ccomp	_	_
+20	___	the	DET	DT	_	21	det	_	_
+21	____	test	NOUN	NN	_	19	obj	_	SpaceAfter=No
+22	_	.	PUNCT	.	_	8	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-6
+# speaker = 10_96
+# text = It is also worth mentioning that doing something like that is, generally, a bad idea.
+1	__	it	PRON	PRP	_	4	nsubj	_	_
+2	__	be	AUX	VBZ	_	4	cop	_	_
+3	____	also	ADV	RB	_	4	advmod	_	_
+4	_____	worth	ADJ	JJ	_	0	root	_	_
+5	__________	mention	VERB	VBG	_	4	xcomp	_	_
+6	____	that	SCONJ	IN	_	17	mark	_	_
+7	_____	do	VERB	VBG	_	17	csubj	_	_
+8	_________	something	NOUN	NN	_	7	obj	_	_
+9	____	like	ADP	IN	_	10	case	_	_
+10	____	that	PRON	DT	_	8	nmod	_	_
+11	__	be	AUX	VBZ	_	17	cop	_	SpaceAfter=No
+12	_	,	PUNCT	,	_	11	punct	_	_
+13	_________	generally	ADV	RB	_	17	advmod	_	SpaceAfter=No
+14	_	,	PUNCT	,	_	13	punct	_	_
+15	_	a	DET	DT	_	17	det	_	_
+16	___	bad	ADJ	JJ	_	17	amod	_	_
+17	____	idea	NOUN	NN	_	5	ccomp	_	SpaceAfter=No
+18	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = imp
+# sent_id = GUM_reddit_polygraph-7
+# speaker = 10_96
+# text = Second, let’s just get something out of the way.
+1	______	second	ADV	RB	_	3	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	___	let	VERB	VB	_	0	root	_	SpaceAfter=No
+4	__	us	PRON	PRP	_	6	nsubj	_	_
+5	____	just	ADV	RB	_	6	advmod	_	_
+6	___	get	VERB	VB	_	3	ccomp	_	_
+7	_________	something	NOUN	NN	_	6	obj	_	_
+8	___	out	ADP	RP	_	11	case	_	_
+9	__	of	ADP	IN	_	8	fixed	_	_
+10	___	the	DET	DT	_	11	det	_	_
+11	___	way	NOUN	NN	_	6	obl	_	SpaceAfter=No
+12	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-8
+# speaker = 10_96
+# text = A polygraph is not admissible in criminal court, and for good reason.
+1	_	a	DET	DT	_	2	det	_	_
+2	_________	polygraph	NOUN	NN	_	5	nsubj	_	_
+3	__	be	AUX	VBZ	_	5	cop	_	_
+4	___	not	PART	RB	Polarity=Neg	5	advmod	_	_
+5	__________	admissible	ADJ	JJ	_	0	root	_	_
+6	__	in	ADP	IN	_	8	case	_	_
+7	________	criminal	ADJ	JJ	_	8	amod	_	_
+8	_____	court	NOUN	NN	_	5	obl	_	SpaceAfter=No
+9	_	,	PUNCT	,	_	13	punct	_	_
+10	___	and	CCONJ	CC	_	13	cc	_	_
+11	___	for	ADP	IN	_	13	case	_	_
+12	____	good	ADJ	JJ	_	13	amod	_	_
+13	______	reason	NOUN	NN	_	8	conj	_	SpaceAfter=No
+14	_	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-9
+# speaker = 10_96
+# text = It is not going to give us specific information.
+1	__	it	PRON	PRP	_	4	nsubj	_	_
+2	__	be	AUX	VBZ	_	4	aux	_	_
+3	___	not	PART	RB	Polarity=Neg	4	advmod	_	_
+4	_____	go	VERB	VBG	_	0	root	_	_
+5	__	to	PART	TO	_	6	mark	_	_
+6	____	give	VERB	VB	_	4	xcomp	_	_
+7	__	us	PRON	PRP	_	6	iobj	_	_
+8	________	specific	ADJ	JJ	_	9	amod	_	_
+9	___________	information	NOUN	NN	_	6	obj	_	SpaceAfter=No
+10	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-10
+# speaker = 10_96
+# text = There have been people who have lied and not shown deception.
+1	_____	There	PRON	EX	_	4	expl	_	_
+2	____	have	AUX	VBP	_	4	aux	_	_
+3	____	be	AUX	VBN	_	4	cop	_	_
+4	______	people	NOUN	NNS	_	0	root	_	_
+5	___	who	PRON	WP	_	7	nsubj	_	_
+6	____	have	AUX	VBP	_	7	aux	_	_
+7	____	lie	VERB	VBN	_	4	acl:relcl	_	_
+8	___	and	CCONJ	CC	_	10	cc	_	_
+9	___	not	PART	RB	Polarity=Neg	10	advmod	_	_
+10	_____	show	VERB	VBN	_	7	conj	_	_
+11	_________	deception	NOUN	NN	_	10	obj	_	SpaceAfter=No
+12	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-11
+# speaker = 10_96
+# text = There are some people who showed deception, who were not necessarily lying.
+1	_____	There	PRON	EX	_	2	expl	_	_
+2	___	be	VERB	VBP	_	0	root	_	_
+3	____	some	DET	DT	_	4	det	_	_
+4	______	people	NOUN	NNS	_	2	nsubj	_	_
+5	___	who	PRON	WP	_	6	nsubj	_	_
+6	______	show	VERB	VBD	_	4	acl:relcl	_	_
+7	_________	deception	NOUN	NN	_	6	obj	_	SpaceAfter=No
+8	_	,	PUNCT	,	_	13	punct	_	_
+9	___	who	PRON	WP	_	13	nsubj	_	_
+10	____	be	AUX	VBD	_	13	aux	_	_
+11	___	not	PART	RB	Polarity=Neg	12	advmod	_	_
+12	___________	necessarily	ADV	RB	_	13	advmod	_	_
+13	_____	lie	VERB	VBG	_	4	acl:relcl	_	SpaceAfter=No
+14	_	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-12
+# speaker = 10_96
+# text = Having said that, it is still a great tool for verifying truthfulness, and I’m a big fan of using it in this kind of a process.
+1	______	have	AUX	VBG	_	2	aux	_	_
+2	____	say	VERB	VBN	_	10	acl	_	_
+3	____	that	PRON	DT	_	2	obj	_	SpaceAfter=No
+4	_	,	PUNCT	,	_	2	punct	_	_
+5	__	it	PRON	PRP	_	10	nsubj	_	_
+6	__	be	AUX	VBZ	_	10	cop	_	_
+7	_____	still	ADV	RB	_	10	advmod	_	_
+8	_	a	DET	DT	_	10	det	_	_
+9	_____	great	ADJ	JJ	_	10	amod	_	_
+10	____	tool	NOUN	NN	_	0	root	_	_
+11	___	for	SCONJ	IN	_	12	mark	_	_
+12	_________	verify	VERB	VBG	_	10	acl	_	_
+13	____________	truthfulness	NOUN	NN	_	12	obj	_	SpaceAfter=No
+14	_	,	PUNCT	,	_	20	punct	_	_
+15	___	and	CCONJ	CC	_	20	cc	_	_
+16	_	I	PRON	PRP	_	20	nsubj	_	SpaceAfter=No
+17	__	be	AUX	VBP	_	20	cop	_	_
+18	_	a	DET	DT	_	20	det	_	_
+19	___	big	ADJ	JJ	_	20	amod	_	_
+20	___	fan	NOUN	NN	_	10	conj	_	_
+21	__	of	SCONJ	IN	_	22	mark	_	_
+22	_____	use	VERB	VBG	_	20	acl	_	_
+23	__	it	PRON	PRP	_	22	obj	_	_
+24	__	in	ADP	IN	_	26	case	_	_
+25	____	this	DET	DT	_	26	det	_	_
+26	____	kind	NOUN	NN	_	22	obl	_	_
+27	__	of	ADP	IN	_	29	case	_	_
+28	_	a	DET	DT	_	29	det	_	_
+29	_______	process	NOUN	NN	_	26	nmod	_	SpaceAfter=No
+30	_	.	PUNCT	.	_	10	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-13
+# speaker = 10_96
+# text = Hopefully I can explain to you why that happens here.
+1	_________	hopefully	ADV	RB	_	4	advmod	_	_
+2	_	I	PRON	PRP	_	4	nsubj	_	_
+3	___	can	AUX	MD	_	4	aux	_	_
+4	_______	explain	VERB	VB	_	0	root	_	_
+5	__	to	ADP	TO	_	6	case	_	_
+6	___	you	PRON	PRP	_	4	obl	_	_
+7	___	why	SCONJ	WRB	_	9	advmod	_	_
+8	____	that	PRON	DT	_	9	nsubj	_	_
+9	_______	happen	VERB	VBZ	_	4	advcl	_	_
+10	____	here	ADV	RB	_	9	advmod	_	SpaceAfter=No
+11	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-14
+# speaker = 10_96
+# text = All of these Deception Detection Devices (DDD) work on a basic principal.
+1	___	all	PRON	DT	_	10	nsubj	_	_
+2	__	of	ADP	IN	_	6	case	_	_
+3	_____	these	DET	DT	_	6	det	_	_
+4	_________	deception	NOUN	NN	_	5	compound	_	_
+5	_________	detection	NOUN	NN	_	6	compound	_	_
+6	_______	device	NOUN	NNS	_	1	nmod	_	_
+7	_	(	PUNCT	-LRB-	_	8	punct	_	SpaceAfter=No
+8	___	DDD	NOUN	NNS	_	6	appos	_	SpaceAfter=No
+9	_	)	PUNCT	-RRB-	_	8	punct	_	_
+10	____	work	VERB	VBP	_	0	root	_	_
+11	__	on	ADP	IN	_	14	case	_	_
+12	_	a	DET	DT	_	14	det	_	_
+13	_____	basic	ADJ	JJ	_	14	amod	_	_
+14	_________	principal	NOUN	NN	_	10	obl	_	SpaceAfter=No
+15	_	.	PUNCT	.	_	10	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-15
+# speaker = 10_96
+# text = Your body has involuntary and automatic responses to lying.
+1	____	your	PRON	PRP$	_	2	nmod:poss	_	_
+2	____	body	NOUN	NN	_	3	nsubj	_	_
+3	___	have	VERB	VBZ	_	0	root	_	_
+4	___________	involuntary	ADJ	JJ	_	7	amod	_	_
+5	___	and	CCONJ	CC	_	6	cc	_	_
+6	_________	automatic	ADJ	JJ	_	4	conj	_	_
+7	_________	response	NOUN	NNS	_	3	obj	_	_
+8	__	to	ADP	TO	_	9	case	_	_
+9	_____	lie	VERB	VBG	_	7	nmod	_	SpaceAfter=No
+10	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-16
+# speaker = 10_96
+# text = Basically, you are afraid of getting caught.
+1	_________	basically	ADV	RB	_	5	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	___	you	PRON	PRP	_	5	nsubj	_	_
+4	___	be	AUX	VBP	_	5	cop	_	_
+5	______	afraid	ADJ	JJ	_	0	root	_	_
+6	__	of	SCONJ	IN	_	7	mark	_	_
+7	_______	get	AUX	VBG	_	5	acl	_	_
+8	______	catch	VERB	VBN	_	7	xcomp	_	SpaceAfter=No
+9	_	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-17
+# speaker = 10_96
+# text = No matter how little, there is still a bit of everyone that hopes we don’t get caught.
+1	__	no	DET	DT	Polarity=Neg	2	det	_	_
+2	______	matter	NOUN	NN	_	4	advmod	_	_
+3	___	how	SCONJ	WRB	_	4	advmod	_	_
+4	______	little	ADV	RB	_	7	advcl	_	SpaceAfter=No
+5	_	,	PUNCT	,	_	4	punct	_	_
+6	_____	there	PRON	EX	_	7	expl	_	_
+7	__	be	VERB	VBZ	_	0	root	_	_
+8	_____	still	ADV	RB	_	7	advmod	_	_
+9	_	a	DET	DT	_	10	det	_	_
+10	___	bit	NOUN	NN	_	7	nsubj	_	_
+11	__	of	ADP	IN	_	12	case	_	_
+12	________	everyone	NOUN	NN	_	10	nmod	_	_
+13	____	that	PRON	WDT	_	14	nsubj	_	_
+14	_____	hope	VERB	VBZ	_	10	acl:relcl	_	_
+15	__	we	PRON	PRP	_	19	nsubj:pass	_	_
+16	__	do	AUX	VBP	_	19	aux	_	SpaceAfter=No
+17	___	n't	PART	RB	Polarity=Neg	19	advmod	_	_
+18	___	get	AUX	VB	_	19	aux:pass	_	_
+19	______	catch	VERB	VBN	_	14	ccomp	_	SpaceAfter=No
+20	_	.	PUNCT	.	_	7	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-18
+# speaker = 10_96
+# text = The fact that you ’re hooked up to the machine really tends to amplify this.
+1	___	the	DET	DT	_	2	det	_	_
+2	____	fact	NOUN	NN	_	12	nsubj	_	_
+3	____	that	SCONJ	IN	_	6	mark	_	_
+4	___	you	PRON	PRP	_	6	nsubj	_	_
+5	___	be	AUX	VBP	_	6	aux	_	_
+6	______	hook	VERB	VBN	_	2	ccomp	_	_
+7	__	up	ADP	RP	_	6	compound:prt	_	_
+8	__	to	ADP	TO	_	10	case	_	_
+9	___	the	DET	DT	_	10	det	_	_
+10	_______	machine	NOUN	NN	_	6	obl	_	_
+11	______	really	ADV	RB	_	12	advmod	_	_
+12	_____	tend	VERB	VBZ	_	0	root	_	_
+13	__	to	PART	TO	_	14	mark	_	_
+14	_______	amplify	VERB	VB	_	12	xcomp	_	_
+15	____	this	PRON	DT	_	14	obj	_	SpaceAfter=No
+16	_	.	PUNCT	.	_	12	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-19
+# speaker = 10_96
+# text = These machines are actually fear detectors.
+1	_____	these	DET	DT	_	2	det	_	_
+2	________	machine	NOUN	NNS	_	6	nsubj	_	_
+3	___	be	AUX	VBP	_	6	cop	_	_
+4	________	actually	ADV	RB	_	6	advmod	_	_
+5	____	fear	NOUN	NN	_	6	compound	_	_
+6	_________	detector	NOUN	NNS	_	0	root	_	SpaceAfter=No
+7	_	.	PUNCT	.	_	6	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-20
+# speaker = 10_96
+# text = They measure your body’s reaction to fear, like your heart rate increasing or changing just to name one.
+1	____	they	PRON	PRP	_	2	nsubj	_	_
+2	_______	measure	VERB	VBP	_	0	root	_	_
+3	____	your	PRON	PRP$	_	4	nmod:poss	_	_
+4	____	body	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No
+5	__	's	PART	POS	_	4	case	_	_
+6	________	reaction	NOUN	NN	_	2	obj	_	_
+7	__	to	ADP	TO	_	8	case	_	_
+8	____	fear	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+9	_	,	PUNCT	,	_	14	punct	_	_
+10	____	like	SCONJ	IN	_	14	mark	_	_
+11	____	your	PRON	PRP$	_	13	nmod:poss	_	_
+12	_____	heart	NOUN	NN	_	13	compound	_	_
+13	____	rate	NOUN	NN	_	14	nsubj	_	_
+14	__________	increase	VERB	VBG	_	6	acl	_	_
+15	__	or	CCONJ	CC	_	16	cc	_	_
+16	________	change	VERB	VBG	_	14	conj	_	_
+17	____	just	ADV	RB	_	19	advmod	_	_
+18	__	to	PART	TO	_	19	mark	_	_
+19	____	name	VERB	VB	_	14	advcl	_	_
+20	___	one	NUM	CD	_	19	obj	_	SpaceAfter=No
+21	_	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = wh
+# sent_id = GUM_reddit_polygraph-21
+# speaker = 10_96
+# text = So how does a truthful person show deception?
+1	__	so	ADV	RB	_	7	advmod	_	_
+2	___	how	SCONJ	WRB	_	7	advmod	_	_
+3	____	do	AUX	VBZ	_	7	aux	_	_
+4	_	a	DET	DT	_	6	det	_	_
+5	________	truthful	ADJ	JJ	_	6	amod	_	_
+6	______	person	NOUN	NN	_	7	nsubj	_	_
+7	____	show	VERB	VB	_	0	root	_	_
+8	_________	deception	NOUN	NN	_	7	obj	_	SpaceAfter=No
+9	_	?	PUNCT	.	_	7	punct	_	_
+
+# s_type = imp
+# sent_id = GUM_reddit_polygraph-22
+# speaker = 10_96
+# text = Let me show you.
+1	___	let	VERB	VB	_	0	root	_	_
+2	__	me	PRON	PRP	_	3	nsubj	_	_
+3	____	show	VERB	VB	_	1	ccomp	_	_
+4	___	you	PRON	PRP	_	3	iobj	_	SpaceAfter=No
+5	_	.	PUNCT	.	_	1	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-23
+# speaker = 10_96
+# text = 20 years ago, an applicant … let’s call him Joe … was out with friends at a bar.
+1	__	@card@	NUM	CD	_	2	nummod	_	_
+2	_____	year	NOUN	NNS	_	15	nmod	_	_
+3	___	ago	ADV	RB	_	2	case	_	SpaceAfter=No
+4	_	,	PUNCT	,	_	2	punct	_	_
+5	__	an	DET	DT	_	6	det	_	_
+6	_________	applicant	NOUN	NN	_	15	nsubj	_	_
+7	_	…	PUNCT	:	_	8	punct	_	_
+8	___	let	VERB	VB	_	6	parataxis	_	SpaceAfter=No
+9	__	us	PRON	PRP	_	10	nsubj	_	_
+10	____	call	VERB	VB	_	8	ccomp	_	_
+11	___	him	PRON	PRP	_	10	obj	_	_
+12	___	Joe	PROPN	NNP	_	10	xcomp	_	_
+13	_	…	PUNCT	:	_	6	punct	_	_
+14	___	be	AUX	VBD	_	15	cop	_	_
+15	___	out	ADV	RB	_	0	root	_	_
+16	____	with	ADP	IN	_	17	case	_	_
+17	_______	friend	NOUN	NNS	_	15	obl	_	_
+18	__	at	ADP	IN	_	20	case	_	_
+19	_	a	DET	DT	_	20	det	_	_
+20	___	bar	NOUN	NN	_	15	obl	_	SpaceAfter=No
+21	_	.	PUNCT	.	_	15	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-24
+# speaker = 10_96
+# text = While there he was approached by a prostitute who offered him her services.
+1	_____	while	SCONJ	IN	_	5	mark	_	_
+2	_____	there	ADV	RB	_	5	advmod	_	_
+3	__	he	PRON	PRP	_	5	nsubj:pass	_	_
+4	___	be	AUX	VBD	_	5	aux:pass	_	_
+5	__________	approach	VERB	VBN	_	0	root	_	_
+6	__	by	ADP	IN	_	8	case	_	_
+7	_	a	DET	DT	_	8	det	_	_
+8	__________	prostitute	NOUN	NN	_	5	obl	_	_
+9	___	who	PRON	WP	_	10	nsubj	_	_
+10	_______	offer	VERB	VBD	_	8	acl:relcl	_	_
+11	___	him	PRON	PRP	_	10	iobj	_	_
+12	___	her	PRON	PRP$	_	13	nmod:poss	_	_
+13	________	service	NOUN	NNS	_	10	obj	_	SpaceAfter=No
+14	_	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-25
+# speaker = 10_96
+# text = Joe, being the fine and upstanding individual he is, turned her down.
+1	___	Joe	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	_____	be	AUX	VBG	_	8	cop	_	_
+4	___	the	DET	DT	_	8	det	_	_
+5	____	fine	ADJ	JJ	_	8	amod	_	_
+6	___	and	CCONJ	CC	_	7	cc	_	_
+7	__________	upstanding	ADJ	JJ	_	5	conj	_	_
+8	__________	individual	NOUN	NN	_	12	advcl	_	_
+9	__	he	PRON	PRP	_	10	nsubj	_	_
+10	__	be	VERB	VBZ	_	8	acl:relcl	_	SpaceAfter=No
+11	_	,	PUNCT	,	_	8	punct	_	_
+12	______	turn	VERB	VBD	_	0	root	_	_
+13	___	her	PRON	PRP	_	12	obj	_	_
+14	____	down	ADP	RP	_	12	compound:prt	_	SpaceAfter=No
+15	_	.	PUNCT	.	_	12	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-26
+# speaker = 10_96
+# text = On his background paperwork he indicated that he had never paid anyone for sex and he has never sought to pay anyone for sex …
+1	__	on	ADP	IN	_	4	case	_	_
+2	___	his	PRON	PRP$	_	4	nmod:poss	_	_
+3	__________	background	NOUN	NN	_	4	compound	_	_
+4	_________	paperwork	NOUN	NN	_	6	obl	_	_
+5	__	he	PRON	PRP	_	6	nsubj	_	_
+6	_________	indicate	VERB	VBD	_	0	root	_	_
+7	____	that	SCONJ	IN	_	11	mark	_	_
+8	__	he	PRON	PRP	_	11	nsubj	_	_
+9	___	have	AUX	VBD	_	11	aux	_	_
+10	_____	never	ADV	RB	Polarity=Neg	11	advmod	_	_
+11	____	pay	VERB	VBN	_	6	ccomp	_	_
+12	______	anyone	NOUN	NN	_	11	iobj	_	_
+13	___	for	ADP	IN	_	14	case	_	_
+14	___	sex	NOUN	NN	_	11	obl	_	_
+15	___	and	CCONJ	CC	_	19	cc	_	_
+16	__	he	PRON	PRP	_	19	nsubj	_	_
+17	___	have	AUX	VBZ	_	19	aux	_	_
+18	_____	never	ADV	RB	Polarity=Neg	19	advmod	_	_
+19	______	seek	VERB	VBN	_	6	conj	_	_
+20	__	to	PART	TO	_	21	mark	_	_
+21	___	pay	VERB	VB	_	19	xcomp	_	_
+22	______	anyone	NOUN	NN	_	21	iobj	_	_
+23	___	for	ADP	IN	_	24	case	_	_
+24	___	sex	NOUN	NN	_	21	obl	_	_
+25	_	…	PUNCT	.	_	6	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-27
+# speaker = 10_96
+# text = both are true.
+1	____	both	PRON	DT	_	3	nsubj	_	_
+2	___	be	AUX	VBP	_	3	cop	_	_
+3	____	true	ADJ	JJ	_	0	root	_	SpaceAfter=No
+4	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-28
+# speaker = 10_96
+# text = However, Joe has a flash of a thought from that night when the examiner asks him if he has paid for sex.
+1	_______	however	ADV	RB	_	4	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	___	Joe	PROPN	NNP	_	4	nsubj	_	_
+4	___	have	VERB	VBZ	_	0	root	_	_
+5	_	a	DET	DT	_	6	det	_	_
+6	_____	flash	NOUN	NN	_	4	obj	_	_
+7	__	of	ADP	IN	_	9	case	_	_
+8	_	a	DET	DT	_	9	det	_	_
+9	_______	thought	NOUN	NN	_	6	nmod	_	_
+10	____	from	ADP	IN	_	12	case	_	_
+11	____	that	DET	DT	_	12	det	_	_
+12	_____	night	NOUN	NN	_	9	nmod	_	_
+13	____	when	SCONJ	WRB	_	16	advmod	_	_
+14	___	the	DET	DT	_	15	det	_	_
+15	________	examiner	NOUN	NN	_	16	nsubj	_	_
+16	____	ask	VERB	VBZ	_	4	advcl	_	_
+17	___	him	PRON	PRP	_	16	obj	_	_
+18	__	if	SCONJ	IN	_	21	mark	_	_
+19	__	he	PRON	PRP	_	21	nsubj	_	_
+20	___	have	AUX	VBZ	_	21	aux	_	_
+21	____	pay	VERB	VBN	_	16	advcl	_	_
+22	___	for	ADP	IN	_	23	case	_	_
+23	___	sex	NOUN	NN	_	21	obl	_	SpaceAfter=No
+24	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-29
+# speaker = 10_96
+# text = His body, automatically, is afraid that he should have said something.
+1	___	his	PRON	PRP$	_	2	nmod:poss	_	_
+2	____	body	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
+3	_	,	PUNCT	,	_	2	punct	_	_
+4	_____________	automatically	ADV	RB	_	7	advmod	_	SpaceAfter=No
+5	_	,	PUNCT	,	_	4	punct	_	_
+6	__	be	AUX	VBZ	_	7	cop	_	_
+7	______	afraid	ADJ	JJ	_	0	root	_	_
+8	____	that	SCONJ	IN	_	12	mark	_	_
+9	__	he	PRON	PRP	_	12	nsubj	_	_
+10	______	should	AUX	MD	_	12	aux	_	_
+11	____	have	AUX	VB	_	12	aux	_	_
+12	____	say	VERB	VBN	_	7	ccomp	_	_
+13	_________	something	NOUN	NN	_	12	obj	_	SpaceAfter=No
+14	_	.	PUNCT	.	_	7	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-30
+# speaker = 10_96
+# text = The machine will pick that reaction up.
+1	___	the	DET	DT	_	2	det	_	_
+2	_______	machine	NOUN	NN	_	4	nsubj	_	_
+3	____	will	AUX	MD	_	4	aux	_	_
+4	____	pick	VERB	VB	_	0	root	_	_
+5	____	that	DET	DT	_	6	det	_	_
+6	________	reaction	NOUN	NN	_	4	obj	_	_
+7	__	up	ADP	RP	_	4	compound:prt	_	SpaceAfter=No
+8	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-31
+# speaker = 10_96
+# text = The reason this isn't scientific is because just because it shows deception on a particular subject, doesn't mean you ’re lying …
+1	___	the	DET	DT	_	2	det	_	_
+2	______	reason	NOUN	NN	_	21	nsubj	_	_
+3	____	this	PRON	DT	_	6	nsubj	_	_
+4	__	be	AUX	VBZ	_	6	cop	_	SpaceAfter=No
+5	___	n't	PART	RB	Polarity=Neg	6	advmod	_	_
+6	__________	scientific	ADJ	JJ	_	2	ccomp	_	_
+7	__	be	AUX	VBZ	_	21	cop	_	_
+8	_______	because	SCONJ	IN	_	21	mark	_	_
+9	____	just	ADV	RB	_	12	advmod	_	_
+10	_______	because	SCONJ	IN	_	12	mark	_	_
+11	__	it	PRON	PRP	_	12	nsubj	_	_
+12	_____	show	VERB	VBZ	_	21	advcl	_	_
+13	_________	deception	NOUN	NN	_	12	obj	_	_
+14	__	on	ADP	IN	_	17	case	_	_
+15	_	a	DET	DT	_	17	det	_	_
+16	__________	particular	ADJ	JJ	_	17	amod	_	_
+17	_______	subject	NOUN	NN	_	12	obl	_	SpaceAfter=No
+18	_	,	PUNCT	,	_	12	punct	_	_
+19	____	do	AUX	VBZ	_	21	aux	_	SpaceAfter=No
+20	___	n't	PART	RB	Polarity=Neg	21	advmod	_	_
+21	____	mean	VERB	VB	_	0	root	_	_
+22	___	you	PRON	PRP	_	24	nsubj	_	_
+23	___	be	AUX	VBP	_	24	aux	_	_
+24	_____	lie	VERB	VBG	_	21	ccomp	_	_
+25	_	…	PUNCT	.	_	21	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-32
+# speaker = 10_96
+# text = it means that there is usually more to that story.
+1	__	it	PRON	PRP	_	2	nsubj	_	_
+2	_____	mean	VERB	VBZ	_	0	root	_	_
+3	____	that	SCONJ	IN	_	5	mark	_	_
+4	_____	there	PRON	EX	_	5	expl	_	_
+5	__	be	VERB	VBZ	_	2	ccomp	_	_
+6	_______	usually	ADV	RB	_	7	advmod	_	_
+7	____	more	ADJ	JJR	_	5	nsubj	_	_
+8	__	to	ADP	TO	_	10	case	_	_
+9	____	that	DET	DT	_	10	det	_	_
+10	_____	story	NOUN	NN	_	7	obl	_	SpaceAfter=No
+11	_	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-33
+# speaker = 10_96
+# text = To combat this, before you take the poly you will talk with the examiner and go over every question that is on the exam.
+1	__	To	PART	TO	_	2	mark	_	_
+2	______	combat	VERB	VB	_	12	advcl	_	_
+3	____	this	PRON	DT	_	2	obj	_	SpaceAfter=No
+4	_	,	PUNCT	,	_	2	punct	_	_
+5	______	before	SCONJ	IN	_	7	mark	_	_
+6	___	you	PRON	PRP	_	7	nsubj	_	_
+7	____	take	VERB	VBP	_	12	advcl	_	_
+8	___	the	DET	DT	_	9	det	_	_
+9	____	poly	NOUN	NN	_	7	obj	_	_
+10	___	you	PRON	PRP	_	12	nsubj	_	_
+11	____	will	AUX	MD	_	12	aux	_	_
+12	____	talk	VERB	VB	_	0	root	_	_
+13	____	with	ADP	IN	_	15	case	_	_
+14	___	the	DET	DT	_	15	det	_	_
+15	________	examiner	NOUN	NN	_	12	obl	_	_
+16	___	and	CCONJ	CC	_	17	cc	_	_
+17	__	go	VERB	VB	_	12	conj	_	_
+18	____	over	ADP	RP	_	17	compound:prt	_	_
+19	_____	every	DET	DT	_	20	det	_	_
+20	________	question	NOUN	NN	_	17	obj	_	_
+21	____	that	PRON	WDT	_	22	nsubj	_	_
+22	__	be	VERB	VBZ	_	20	acl:relcl	_	_
+23	__	on	ADP	IN	_	25	case	_	_
+24	___	the	DET	DT	_	25	det	_	_
+25	____	exam	NOUN	NN	_	22	obl	_	SpaceAfter=No
+26	_	.	PUNCT	.	_	12	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-34
+# speaker = 10_96
+# text = That way you can address any gray areas.
+1	____	that	DET	DT	_	2	det	_	_
+2	___	way	NOUN	NN	_	5	obl:npmod	_	_
+3	___	you	PRON	PRP	_	5	nsubj	_	_
+4	___	can	AUX	MD	_	5	aux	_	_
+5	_______	address	VERB	VB	_	0	root	_	_
+6	___	any	DET	DT	_	8	det	_	_
+7	____	gray	ADJ	JJ	_	8	amod	_	_
+8	_____	area	NOUN	NNS	_	5	obj	_	SpaceAfter=No
+9	_	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = other
+# sent_id = GUM_reddit_polygraph-35
+# speaker = 10_96
+# text = You may have answered a question in your background with a “no” answer, but there is a “comma, but” to it though … if you know what I mean.
+1	___	you	PRON	PRP	_	4	nsubj	_	_
+2	___	may	AUX	MD	_	4	aux	_	_
+3	____	have	AUX	VB	_	4	aux	_	_
+4	________	answer	VERB	VBN	_	0	root	_	_
+5	_	a	DET	DT	_	6	det	_	_
+6	________	question	NOUN	NN	_	4	obj	_	_
+7	__	in	ADP	IN	_	9	case	_	_
+8	____	your	PRON	PRP$	_	9	nmod:poss	_	_
+9	__________	background	NOUN	NN	_	6	nmod	_	_
+10	____	with	ADP	IN	_	15	case	_	_
+11	_	a	DET	DT	_	15	det	_	_
+12	_	"	PUNCT	``	_	13	punct	_	SpaceAfter=No
+13	__	no	INTJ	UH	_	15	discourse	_	SpaceAfter=No
+14	_	"	PUNCT	''	_	13	punct	_	_
+15	______	answer	NOUN	NN	_	4	obl	_	SpaceAfter=No
+16	_	,	PUNCT	,	_	19	punct	_	_
+17	___	but	CCONJ	CC	_	19	cc	_	_
+18	_____	there	PRON	EX	_	19	expl	_	_
+19	__	be	VERB	VBZ	_	4	conj	_	_
+20	_	a	DET	DT	_	22	det	_	_
+21	_	"	PUNCT	``	_	22	punct	_	SpaceAfter=No
+22	_____	comma	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
+23	_	,	PUNCT	,	_	24	punct	_	_
+24	___	but	CCONJ	CC	_	22	dep	_	SpaceAfter=No
+25	_	"	PUNCT	''	_	22	punct	_	_
+26	__	to	ADP	TO	_	27	case	_	_
+27	__	it	PRON	PRP	_	22	nmod	_	_
+28	______	though	ADV	RB	_	19	advmod	_	_
+29	_	…	PUNCT	:	_	32	punct	_	_
+30	__	if	SCONJ	IN	_	32	mark	_	_
+31	___	you	PRON	PRP	_	32	nsubj	_	_
+32	____	know	VERB	VBP	_	19	advcl	_	_
+33	____	what	PRON	WP	_	35	obj	_	_
+34	_	I	PRON	PRP	_	35	nsubj	_	_
+35	____	mean	VERB	VBP	_	32	ccomp	_	SpaceAfter=No
+36	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = imp
+# sent_id = GUM_reddit_polygraph-36
+# speaker = 10_96
+# text = Make sure that you address any of these areas with the background investigator and with the polygraph examiner before taking the test.
+1	____	make	VERB	VB	_	0	root	_	_
+2	____	sure	ADJ	JJ	_	1	xcomp	_	_
+3	____	that	SCONJ	IN	_	5	mark	_	_
+4	___	you	PRON	PRP	_	5	nsubj	_	_
+5	_______	address	VERB	VBP	_	1	ccomp	_	_
+6	___	any	PRON	DT	_	5	obj	_	_
+7	__	of	ADP	IN	_	9	case	_	_
+8	_____	these	DET	DT	_	9	det	_	_
+9	_____	area	NOUN	NNS	_	6	nmod	_	_
+10	____	with	ADP	IN	_	13	case	_	_
+11	___	the	DET	DT	_	13	det	_	_
+12	__________	background	NOUN	NN	_	13	compound	_	_
+13	____________	investigator	NOUN	NN	_	5	obl	_	_
+14	___	and	CCONJ	CC	_	18	cc	_	_
+15	____	with	ADP	IN	_	18	case	_	_
+16	___	the	DET	DT	_	18	det	_	_
+17	_________	polygraph	NOUN	NN	_	18	compound	_	_
+18	________	examiner	NOUN	NN	_	13	conj	_	_
+19	______	before	SCONJ	IN	_	20	mark	_	_
+20	______	take	VERB	VBG	_	5	advcl	_	_
+21	___	the	DET	DT	_	22	det	_	_
+22	____	test	NOUN	NN	_	20	obj	_	SpaceAfter=No
+23	_	.	PUNCT	.	_	1	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-37
+# speaker = 10_96
+# text = That way, you’ll feel that it’s been addressed and it is much more likely to be a non-issue.
+1	____	that	DET	DT	_	2	det	_	_
+2	___	way	NOUN	NN	_	6	obl:npmod	_	SpaceAfter=No
+3	_	,	PUNCT	,	_	2	punct	_	_
+4	___	you	PRON	PRP	_	6	nsubj	_	SpaceAfter=No
+5	___	will	AUX	MD	_	6	aux	_	_
+6	____	feel	VERB	VB	_	0	root	_	_
+7	____	that	SCONJ	IN	_	11	mark	_	_
+8	__	it	PRON	PRP	_	11	nsubj:pass	_	SpaceAfter=No
+9	__	have	AUX	VBZ	_	11	aux	_	_
+10	____	be	AUX	VBN	_	11	aux:pass	_	_
+11	_________	address	VERB	VBN	_	6	ccomp	_	_
+12	___	and	CCONJ	CC	_	17	cc	_	_
+13	__	it	PRON	PRP	_	17	nsubj	_	_
+14	__	be	AUX	VBZ	_	17	cop	_	_
+15	____	much	ADV	RB	_	17	advmod	_	_
+16	____	more	ADV	RBR	_	17	advmod	_	_
+17	______	likely	ADJ	JJ	_	11	conj	_	_
+18	__	to	PART	TO	_	21	mark	_	_
+19	__	be	AUX	VB	_	21	cop	_	_
+20	_	a	DET	DT	_	21	det	_	_
+21	_________	non-issue	NOUN	NN	_	17	xcomp	_	SpaceAfter=No
+22	_	.	PUNCT	.	_	6	punct	_	_
+
+# s_type = imp
+# sent_id = GUM_reddit_polygraph-38
+# speaker = 10_96
+# text = Third, please know that common sense is still very much on the table.
+1	_____	third	ADV	RB	_	4	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	______	please	INTJ	UH	_	4	discourse	_	_
+4	____	know	VERB	VB	_	0	root	_	_
+5	____	that	SCONJ	IN	_	11	mark	_	_
+6	______	common	ADJ	JJ	_	7	amod	_	_
+7	_____	sense	NOUN	NN	_	11	nsubj	_	_
+8	__	be	AUX	VBZ	_	11	cop	_	_
+9	_____	still	ADV	RB	_	11	advmod	_	_
+10	____	very	ADV	RB	_	11	advmod	_	_
+11	____	much	ADV	RB	_	4	ccomp	_	_
+12	__	on	ADP	IN	_	14	case	_	_
+13	___	the	DET	DT	_	14	det	_	_
+14	_____	table	NOUN	NN	_	11	obl	_	SpaceAfter=No
+15	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = q
+# sent_id = GUM_reddit_polygraph-39
+# speaker = 10_96
+# text = Have you seen the scene from Ocean’s Eleven where the “smart guy” is undergoing a polygraph so he can get the casino job?
+1	____	have	AUX	VBP	_	3	aux	_	_
+2	___	you	PRON	PRP	_	3	nsubj	_	_
+3	____	see	VERB	VBN	_	0	root	_	_
+4	___	the	DET	DT	_	5	det	_	_
+5	_____	scene	NOUN	NN	_	3	obj	_	_
+6	____	from	ADP	IN	_	9	case	_	_
+7	_____	Ocean	PROPN	NNP	_	9	nmod:poss	_	SpaceAfter=No
+8	__	's	PART	POS	_	7	case	_	_
+9	______	Eleven	PROPN	NNP	_	5	nmod	_	_
+10	_____	where	SCONJ	WRB	_	17	advmod	_	_
+11	___	the	DET	DT	_	14	det	_	_
+12	_	"	PUNCT	``	_	14	punct	_	SpaceAfter=No
+13	_____	smart	ADJ	JJ	_	14	amod	_	_
+14	___	guy	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
+15	_	"	PUNCT	''	_	14	punct	_	_
+16	__	be	AUX	VBZ	_	17	aux	_	_
+17	__________	undergo	VERB	VBG	_	5	acl:relcl	_	_
+18	_	a	DET	DT	_	19	det	_	_
+19	_________	polygraph	NOUN	NN	_	17	obj	_	_
+20	__	so	SCONJ	IN	_	23	mark	_	_
+21	__	he	PRON	PRP	_	23	nsubj	_	_
+22	___	can	AUX	MD	_	23	aux	_	_
+23	___	get	VERB	VB	_	17	advcl	_	_
+24	___	the	DET	DT	_	26	det	_	_
+25	______	casino	NOUN	NN	_	26	compound	_	_
+26	___	job	NOUN	NN	_	23	obj	_	SpaceAfter=No
+27	_	?	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-40
+# speaker = 10_96
+# text = They put a thumb tack in his shoe so that when he could poke his foot on the truthful answers and not on the lies.
+1	____	they	PRON	PRP	_	2	nsubj	_	_
+2	___	put	VERB	VBD	_	0	root	_	_
+3	_	a	DET	DT	_	5	det	_	_
+4	_____	thumb	NOUN	NN	_	5	compound	_	_
+5	____	tack	NOUN	NN	_	2	obj	_	_
+6	__	in	ADP	IN	_	8	case	_	_
+7	___	his	PRON	PRP$	_	8	nmod:poss	_	_
+8	____	shoe	NOUN	NN	_	2	obl	_	_
+9	__	so	SCONJ	RB	_	14	mark	_	_
+10	____	that	ADP	IN	_	9	fixed	_	_
+11	____	when	SCONJ	WRB	_	14	advmod	_	_
+12	__	he	PRON	PRP	_	14	nsubj	_	_
+13	_____	could	AUX	MD	_	14	aux	_	_
+14	____	poke	VERB	VB	_	2	advcl	_	_
+15	___	his	PRON	PRP$	_	16	nmod:poss	_	_
+16	____	foot	NOUN	NN	_	14	obj	_	_
+17	__	on	ADP	IN	_	20	case	_	_
+18	___	the	DET	DT	_	20	det	_	_
+19	________	truthful	ADJ	JJ	_	20	amod	_	_
+20	_______	answer	NOUN	NNS	_	14	obl	_	_
+21	___	and	CCONJ	CC	_	25	cc	_	_
+22	___	not	PART	RB	Polarity=Neg	23	advmod	_	_
+23	__	on	ADP	IN	_	25	case	_	_
+24	___	the	DET	DT	_	25	det	_	_
+25	____	lie	NOUN	NNS	_	20	conj	_	SpaceAfter=No
+26	_	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-41
+# speaker = 10_96
+# text = That way he was consistent through the exam.
+1	____	that	DET	DT	_	2	det	_	_
+2	___	way	NOUN	NN	_	5	obl:npmod	_	_
+3	__	he	PRON	PRP	_	5	nsubj	_	_
+4	___	be	AUX	VBD	_	5	cop	_	_
+5	__________	consistent	ADJ	JJ	_	0	root	_	_
+6	_______	through	ADP	IN	_	8	case	_	_
+7	___	the	DET	DT	_	8	det	_	_
+8	____	exam	NOUN	NN	_	5	obl	_	SpaceAfter=No
+9	_	.	PUNCT	.	_	5	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-42
+# speaker = 10_96
+# text = He was always stressed.
+1	__	he	PRON	PRP	_	4	nsubj:pass	_	_
+2	___	be	AUX	VBD	_	4	aux:pass	_	_
+3	______	always	ADV	RB	_	4	advmod	_	_
+4	________	stress	VERB	VBN	_	0	root	_	SpaceAfter=No
+5	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = other
+# sent_id = GUM_reddit_polygraph-43
+# speaker = 10_96
+# text = The examiner even makes the comment that “man to look at him, I would swear he’s being deceptive.”
+1	___	the	DET	DT	_	2	det	_	_
+2	________	examiner	NOUN	NN	_	4	nsubj	_	_
+3	____	even	ADV	RB	_	4	advmod	_	_
+4	_____	make	VERB	VBZ	_	0	root	_	_
+5	___	the	DET	DT	_	6	det	_	_
+6	_______	comment	NOUN	NN	_	4	obj	_	_
+7	____	that	SCONJ	IN	_	17	mark	_	_
+8	_	"	PUNCT	``	_	17	punct	_	SpaceAfter=No
+9	___	man	NOUN	NN	_	17	discourse	_	_
+10	__	to	PART	TO	_	11	mark	_	_
+11	____	look	VERB	VB	_	17	advcl	_	_
+12	__	at	ADP	IN	_	13	case	_	_
+13	___	him	PRON	PRP	_	11	obl	_	SpaceAfter=No
+14	_	,	PUNCT	,	_	11	punct	_	_
+15	_	I	PRON	PRP	_	17	nsubj	_	_
+16	_____	would	AUX	MD	_	17	aux	_	_
+17	_____	swear	VERB	VB	_	6	ccomp	_	_
+18	__	he	PRON	PRP	_	21	nsubj	_	SpaceAfter=No
+19	__	be	AUX	VBZ	_	21	aux	_	_
+20	_____	be	AUX	VBG	_	21	cop	_	_
+21	_________	deceptive	ADJ	JJ	_	17	ccomp	_	SpaceAfter=No
+22	_	.	PUNCT	.	_	17	punct	_	SpaceAfter=No
+23	_	''	PUNCT	''	_	17	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-44
+# speaker = 10_96
+# text = Well, first … the thumb tack trick doesn't work …
+1	____	well	INTJ	UH	_	11	discourse	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	_____	first	ADV	RB	_	11	advmod	_	_
+4	_	…	PUNCT	:	_	3	punct	_	_
+5	___	the	DET	DT	_	8	det	_	_
+6	_____	thumb	NOUN	NN	_	7	compound	_	_
+7	____	tack	NOUN	NN	_	8	compound	_	_
+8	_____	trick	NOUN	NN	_	11	nsubj	_	_
+9	____	do	AUX	VBZ	_	11	aux	_	SpaceAfter=No
+10	___	n't	PART	RB	Polarity=Neg	11	advmod	_	_
+11	____	work	VERB	VB	_	0	root	_	_
+12	_	…	PUNCT	.	_	11	punct	_	_
+
+# s_type = imp
+# sent_id = GUM_reddit_polygraph-45
+# speaker = 10_96
+# text = don’t try it.
+1	__	do	AUX	VB	_	3	aux	_	SpaceAfter=No
+2	___	n't	PART	RB	Polarity=Neg	3	advmod	_	_
+3	___	try	VERB	VB	_	0	root	_	_
+4	__	it	PRON	PRP	_	3	obj	_	SpaceAfter=No
+5	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-46
+# speaker = 10_96
+# text = You’ll end up with a hurt foot, and deception everywhere.
+1	___	you	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	___	will	AUX	MD	_	3	aux	_	_
+3	___	end	VERB	VB	_	0	root	_	_
+4	__	up	ADP	RP	_	3	compound:prt	_	_
+5	____	with	ADP	IN	_	8	case	_	_
+6	_	a	DET	DT	_	8	det	_	_
+7	____	hurt	VERB	VBN	_	8	amod	_	_
+8	____	foot	NOUN	NN	_	3	obl	_	SpaceAfter=No
+9	_	,	PUNCT	,	_	11	punct	_	_
+10	___	and	CCONJ	CC	_	11	cc	_	_
+11	_________	deception	NOUN	NN	_	8	conj	_	_
+12	__________	everywhere	ADV	RB	_	11	advmod	_	SpaceAfter=No
+13	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-47
+# speaker = 10_96
+# text = Second, the human element will be sure to include any potential signs of deception.
+1	______	second	ADV	RB	_	8	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	___	the	DET	DT	_	5	det	_	_
+4	_____	human	ADJ	JJ	_	5	amod	_	_
+5	_______	element	NOUN	NN	_	8	nsubj	_	_
+6	____	will	AUX	MD	_	8	aux	_	_
+7	__	be	AUX	VB	_	8	cop	_	_
+8	____	sure	ADJ	JJ	_	0	root	_	_
+9	__	to	PART	TO	_	10	mark	_	_
+10	_______	include	VERB	VB	_	8	xcomp	_	_
+11	___	any	DET	DT	_	13	det	_	_
+12	_________	potential	ADJ	JJ	_	13	amod	_	_
+13	_____	sign	NOUN	NNS	_	10	obj	_	_
+14	__	of	ADP	IN	_	15	case	_	_
+15	_________	deception	NOUN	NN	_	13	nmod	_	SpaceAfter=No
+16	_	.	PUNCT	.	_	8	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-48
+# speaker = 10_96
+# text = Again, it is generally a bad idea to try and determine how to beat this test.
+1	_____	again	ADV	RB	_	8	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	1	punct	_	_
+3	__	it	PRON	PRP	_	8	nsubj	_	_
+4	__	be	AUX	VBZ	_	8	cop	_	_
+5	_________	generally	ADV	RB	_	8	advmod	_	_
+6	_	a	DET	DT	_	8	det	_	_
+7	___	bad	ADJ	JJ	_	8	amod	_	_
+8	____	idea	NOUN	NN	_	0	root	_	_
+9	__	to	PART	TO	_	10	mark	_	_
+10	___	try	VERB	VB	_	8	ccomp	_	_
+11	___	and	CCONJ	CC	_	12	cc	_	_
+12	_________	determine	VERB	VB	_	10	conj	_	_
+13	___	how	SCONJ	WRB	_	15	advmod	_	_
+14	__	to	PART	TO	_	15	mark	_	_
+15	____	beat	VERB	VB	_	12	ccomp	_	_
+16	____	this	DET	DT	_	17	det	_	_
+17	____	test	NOUN	NN	_	15	obj	_	SpaceAfter=No
+18	_	.	PUNCT	.	_	8	punct	_	_
+
+# s_type = imp
+# sent_id = GUM_reddit_polygraph-49
+# speaker = 10_96
+# text = Don’t do it, just be honest through the process.
+1	__	do	AUX	VB	_	3	aux	_	SpaceAfter=No
+2	___	n't	PART	RB	Polarity=Neg	3	advmod	_	_
+3	__	do	VERB	VB	_	0	root	_	_
+4	__	it	PRON	PRP	_	3	obj	_	SpaceAfter=No
+5	_	,	PUNCT	,	_	8	punct	_	_
+6	____	just	ADV	RB	_	8	advmod	_	_
+7	__	be	AUX	VB	_	8	cop	_	_
+8	______	honest	ADJ	JJ	_	3	parataxis	_	_
+9	_______	through	ADP	IN	_	11	case	_	_
+10	___	the	DET	DT	_	11	det	_	_
+11	_______	process	NOUN	NN	_	8	obl	_	SpaceAfter=No
+12	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-50
+# speaker = 10_96
+# text = Each step is there for a reason.
+1	____	each	DET	DT	_	2	det	_	_
+2	____	step	NOUN	NN	_	4	nsubj	_	_
+3	__	be	AUX	VBZ	_	4	cop	_	_
+4	_____	there	ADV	RB	_	0	root	_	_
+5	___	for	ADP	IN	_	7	case	_	_
+6	_	a	DET	DT	_	7	det	_	_
+7	______	reason	NOUN	NN	_	4	obl	_	SpaceAfter=No
+8	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = sub
+# sent_id = GUM_reddit_polygraph-51
+# speaker = 10_96
+# text = Finally, and most importantly, you should know that everyone is intimidated by this step in the process.
+1	_______	finally	ADV	RB	_	9	advmod	_	SpaceAfter=No
+2	_	,	PUNCT	,	_	5	punct	_	_
+3	___	and	CCONJ	CC	_	5	cc	_	_
+4	____	most	ADV	RBS	_	5	advmod	_	_
+5	___________	importantly	ADV	RB	_	1	conj	_	SpaceAfter=No
+6	_	,	PUNCT	,	_	1	punct	_	_
+7	___	you	PRON	PRP	_	9	nsubj	_	_
+8	______	should	AUX	MD	_	9	aux	_	_
+9	____	know	VERB	VB	_	0	root	_	_
+10	____	that	SCONJ	IN	_	13	mark	_	_
+11	________	everyone	NOUN	NN	_	13	nsubj:pass	_	_
+12	__	be	AUX	VBZ	_	13	aux:pass	_	_
+13	___________	intimidate	VERB	VBN	_	9	ccomp	_	_
+14	__	by	ADP	IN	_	16	case	_	_
+15	____	this	DET	DT	_	16	det	_	_
+16	____	step	NOUN	NN	_	13	obl	_	_
+17	__	in	ADP	IN	_	19	case	_	_
+18	___	the	DET	DT	_	19	det	_	_
+19	_______	process	NOUN	NN	_	13	obl	_	SpaceAfter=No
+20	_	.	PUNCT	.	_	9	punct	_	_
+
+# s_type = sub
+# sent_id = GUM_reddit_polygraph-52
+# speaker = 10_96
+# text = You don’t need to worry about nervousness tripping the machine or giving you a false indication of deception.
+1	___	you	PRON	PRP	_	4	nsubj	_	_
+2	__	do	AUX	VBP	_	4	aux	_	SpaceAfter=No
+3	___	n't	PART	RB	Polarity=Neg	4	advmod	_	_
+4	____	need	VERB	VB	_	0	root	_	_
+5	__	to	PART	TO	_	6	mark	_	_
+6	_____	worry	VERB	VB	_	4	xcomp	_	_
+7	_____	about	SCONJ	IN	_	9	mark	_	_
+8	___________	nervousness	NOUN	NN	_	9	nsubj	_	_
+9	________	trip	VERB	VBG	_	6	advcl	_	_
+10	___	the	DET	DT	_	11	det	_	_
+11	_______	machine	NOUN	NN	_	9	obj	_	_
+12	__	or	CCONJ	CC	_	13	cc	_	_
+13	______	give	VERB	VBG	_	9	conj	_	_
+14	___	you	PRON	PRP	_	13	iobj	_	_
+15	_	a	DET	DT	_	17	det	_	_
+16	_____	false	ADJ	JJ	_	17	amod	_	_
+17	__________	indication	NOUN	NN	_	13	obj	_	_
+18	__	of	ADP	IN	_	19	case	_	_
+19	_________	deception	NOUN	NN	_	17	nmod	_	SpaceAfter=No
+20	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = sub
+# sent_id = GUM_reddit_polygraph-53
+# speaker = 10_96
+# text = If it did that just because people were nervous, then no one would ever pass these tests.
+1	__	if	SCONJ	IN	_	3	mark	_	_
+2	__	it	PRON	PRP	_	3	nsubj	_	_
+3	___	do	VERB	VBD	_	16	advcl	_	_
+4	____	that	PRON	DT	_	3	obj	_	_
+5	____	just	ADV	RB	_	9	advmod	_	_
+6	_______	because	SCONJ	IN	_	9	mark	_	_
+7	______	people	NOUN	NNS	_	9	nsubj	_	_
+8	____	be	AUX	VBD	_	9	cop	_	_
+9	_______	nervous	ADJ	JJ	_	3	advcl	_	SpaceAfter=No
+10	_	,	PUNCT	,	_	3	punct	_	_
+11	____	then	ADV	RB	_	13	advmod	_	_
+12	__	no	DET	DT	Polarity=Neg	13	det	_	_
+13	___	one	NUM	CD	_	16	nsubj	_	_
+14	_____	would	AUX	MD	_	16	aux	_	_
+15	____	ever	ADV	RB	_	16	advmod	_	_
+16	____	pass	VERB	VB	_	0	root	_	_
+17	_____	these	DET	DT	_	18	det	_	_
+18	_____	test	NOUN	NNS	_	16	obj	_	SpaceAfter=No
+19	_	.	PUNCT	.	_	16	punct	_	_
+
+# s_type = other
+# sent_id = GUM_reddit_polygraph-54
+# speaker = 10_96
+# text = The poly tends to be the part of the process that everyone dreads … and that really shouldn't be the case.
+1	___	the	DET	DT	_	2	det	_	_
+2	____	poly	NOUN	NN	_	3	nsubj	_	_
+3	_____	tend	VERB	VBZ	_	0	root	_	_
+4	__	to	PART	TO	_	7	mark	_	_
+5	__	be	AUX	VB	_	7	cop	_	_
+6	___	the	DET	DT	_	7	det	_	_
+7	____	part	NOUN	NN	_	3	xcomp	_	_
+8	__	of	ADP	IN	_	10	case	_	_
+9	___	the	DET	DT	_	10	det	_	_
+10	_______	process	NOUN	NN	_	7	nmod	_	_
+11	____	that	PRON	WDT	_	13	obj	_	_
+12	________	everyone	NOUN	NN	_	13	nsubj	_	_
+13	______	dread	VERB	VBZ	_	7	acl:relcl	_	_
+14	_	…	PUNCT	:	_	22	punct	_	_
+15	___	and	CCONJ	CC	_	22	cc	_	_
+16	____	that	PRON	DT	_	22	nsubj	_	_
+17	______	really	ADV	RB	_	22	advmod	_	_
+18	______	should	AUX	MD	_	22	aux	_	SpaceAfter=No
+19	___	n't	PART	RB	Polarity=Neg	22	advmod	_	_
+20	__	be	AUX	VB	_	22	cop	_	_
+21	___	the	DET	DT	_	22	det	_	_
+22	____	case	NOUN	NN	_	3	conj	_	SpaceAfter=No
+23	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-55
+# speaker = 10_96
+# text = You have already answered every question during your background investigation that they are going to ask you on the polygraph.
+1	___	you	PRON	PRP	_	4	nsubj	_	_
+2	____	have	AUX	VBP	_	4	aux	_	_
+3	_______	already	ADV	RB	_	4	advmod	_	_
+4	________	answer	VERB	VBN	_	0	root	_	_
+5	_____	every	DET	DT	_	6	det	_	_
+6	________	question	NOUN	NN	_	4	obj	_	_
+7	______	during	ADP	IN	_	10	case	_	_
+8	____	your	PRON	PRP$	_	10	nmod:poss	_	_
+9	__________	background	NOUN	NN	_	10	compound	_	_
+10	_____________	investigation	NOUN	NN	_	4	obl	_	_
+11	____	that	PRON	WDT	_	16	obj	_	_
+12	____	they	PRON	PRP	_	14	nsubj	_	_
+13	___	be	AUX	VBP	_	14	aux	_	_
+14	_____	go	VERB	VBG	_	6	acl:relcl	_	_
+15	__	to	PART	TO	_	16	mark	_	_
+16	___	ask	VERB	VB	_	14	xcomp	_	_
+17	___	you	PRON	PRP	_	16	iobj	_	_
+18	__	on	ADP	IN	_	20	case	_	_
+19	___	the	DET	DT	_	20	det	_	_
+20	_________	polygraph	NOUN	NN	_	16	obl	_	SpaceAfter=No
+21	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = other
+# sent_id = GUM_reddit_polygraph-56
+# speaker = 10_96
+# text = Be honest and thorough during that portion of the process and you’ll be fine.
+1	__	be	AUX	VB	_	2	cop	_	_
+2	______	honest	ADJ	JJ	_	0	root	_	_
+3	___	and	CCONJ	CC	_	4	cc	_	_
+4	________	thorough	ADJ	JJ	_	2	conj	_	_
+5	______	during	ADP	IN	_	7	case	_	_
+6	____	that	DET	DT	_	7	det	_	_
+7	_______	portion	NOUN	NN	_	2	obl	_	_
+8	__	of	ADP	IN	_	10	case	_	_
+9	___	the	DET	DT	_	10	det	_	_
+10	_______	process	NOUN	NN	_	7	nmod	_	_
+11	___	and	CCONJ	CC	_	15	cc	_	_
+12	___	you	PRON	PRP	_	15	nsubj	_	SpaceAfter=No
+13	___	will	AUX	MD	_	15	aux	_	_
+14	__	be	AUX	VB	_	15	cop	_	_
+15	____	fine	ADJ	JJ	_	2	conj	_	SpaceAfter=No
+16	_	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-57
+# speaker = 10_96
+# text = I hope this has illuminated the polygraph a bit.
+1	_	I	PRON	PRP	_	2	nsubj	_	_
+2	____	hope	VERB	VBP	_	0	root	_	_
+3	____	this	PRON	DT	_	5	nsubj	_	_
+4	___	have	AUX	VBZ	_	5	aux	_	_
+5	___________	illuminate	VERB	VBN	_	2	ccomp	_	_
+6	___	the	DET	DT	_	7	det	_	_
+7	_________	polygraph	NOUN	NN	_	5	obj	_	_
+8	_	a	DET	DT	_	9	det	_	_
+9	___	bit	NOUN	NN	_	7	nmod:npmod	_	SpaceAfter=No
+10	_	.	PUNCT	.	_	2	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-58
+# speaker = 10_96
+# text = It’s one of the more intimidating portions of the process, I understand this.
+1	__	it	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
+2	__	be	AUX	VBZ	_	3	cop	_	_
+3	___	one	NUM	CD	_	0	root	_	_
+4	__	of	ADP	IN	_	8	case	_	_
+5	___	the	DET	DT	_	8	det	_	_
+6	____	more	ADV	RBR	_	7	advmod	_	_
+7	____________	intimidating	ADJ	JJ	_	8	amod	_	_
+8	________	portion	NOUN	NNS	_	3	nmod	_	_
+9	__	of	ADP	IN	_	11	case	_	_
+10	___	the	DET	DT	_	11	det	_	_
+11	_______	process	NOUN	NN	_	8	nmod	_	SpaceAfter=No
+12	_	,	PUNCT	,	_	14	punct	_	_
+13	_	I	PRON	PRP	_	14	nsubj	_	_
+14	__________	understand	VERB	VBP	_	3	parataxis	_	_
+15	____	this	PRON	DT	_	14	obj	_	SpaceAfter=No
+16	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = sub
+# sent_id = GUM_reddit_polygraph-59
+# speaker = 10_96
+# text = It should be the easiest part though.
+1	__	it	PRON	PRP	_	6	nsubj	_	_
+2	______	should	AUX	MD	_	6	aux	_	_
+3	__	be	AUX	VB	_	6	cop	_	_
+4	___	the	DET	DT	_	6	det	_	_
+5	_______	easy	ADJ	JJS	_	6	amod	_	_
+6	____	part	NOUN	NN	_	0	root	_	_
+7	______	though	ADV	RB	_	6	advmod	_	SpaceAfter=No
+8	_	.	PUNCT	.	_	6	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-60
+# speaker = 10_96
+# text = You've already answered these questions, some of them several times.
+1	___	you	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+2	___	have	AUX	VBP	_	4	aux	_	_
+3	_______	already	ADV	RB	_	4	advmod	_	_
+4	________	answer	VERB	VBN	_	0	root	_	_
+5	_____	these	DET	DT	_	6	det	_	_
+6	_________	question	NOUN	NNS	_	4	obj	_	SpaceAfter=No
+7	_	,	PUNCT	,	_	8	punct	_	_
+8	____	some	PRON	DT	_	4	parataxis	_	_
+9	__	of	ADP	IN	_	10	case	_	_
+10	____	them	PRON	PRP	_	8	nmod	_	_
+11	_______	several	ADJ	JJ	_	12	amod	_	_
+12	_____	time	NOUN	NNS	_	8	nmod:tmod	_	SpaceAfter=No
+13	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = sub
+# sent_id = GUM_reddit_polygraph-61
+# speaker = 10_96
+# text = This should just be about verifying what we already know.
+1	____	this	PRON	DT	_	4	nsubj	_	_
+2	______	should	AUX	MD	_	4	aux	_	_
+3	____	just	ADV	RB	_	4	advmod	_	_
+4	__	be	VERB	VB	_	0	root	_	_
+5	_____	about	SCONJ	IN	_	6	mark	_	_
+6	_________	verify	VERB	VBG	_	4	advcl	_	_
+7	____	what	PRON	WP	_	10	obj	_	_
+8	__	we	PRON	PRP	_	10	nsubj	_	_
+9	_______	already	ADV	RB	_	10	advmod	_	_
+10	____	know	VERB	VBP	_	6	ccomp	_	SpaceAfter=No
+11	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = other
+# sent_id = GUM_reddit_polygraph-62
+# speaker = 10_96
+# text = Thank you for taking the time to read this, should you have any questions feel free to PM me.
+1	_____	thank	VERB	VB	_	0	root	_	_
+2	___	you	PRON	PRP	_	1	obj	_	_
+3	___	for	SCONJ	IN	_	4	mark	_	_
+4	______	take	VERB	VBG	_	1	advcl	_	_
+5	___	the	DET	DT	_	6	det	_	_
+6	____	time	NOUN	NN	_	4	obj	_	_
+7	__	to	PART	TO	_	8	mark	_	_
+8	____	read	VERB	VB	_	6	acl	_	_
+9	____	this	PRON	DT	_	8	obj	_	SpaceAfter=No
+10	_	,	PUNCT	,	_	16	punct	_	_
+11	______	should	AUX	MD	_	13	aux	_	_
+12	___	you	PRON	PRP	_	13	nsubj	_	_
+13	____	have	VERB	VB	_	16	advcl	_	_
+14	___	any	DET	DT	_	15	det	_	_
+15	_________	question	NOUN	NNS	_	13	obj	_	_
+16	____	feel	VERB	VB	_	1	parataxis	_	_
+17	____	free	ADJ	JJ	_	16	xcomp	_	_
+18	__	to	PART	TO	_	19	mark	_	_
+19	__	PM	VERB	VB	_	17	xcomp	_	_
+20	__	me	PRON	PRP	_	19	obj	_	SpaceAfter=No
+21	_	.	PUNCT	.	_	1	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-63
+# speaker = 10_96
+# text = I’m also taking requests for the next edition in this series.
+1	_	I	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+2	__	be	AUX	VBP	_	4	cop	_	_
+3	____	also	ADV	RB	_	4	advmod	_	_
+4	______	take	VERB	VBG	_	0	root	_	_
+5	________	request	NOUN	NNS	_	4	obj	_	_
+6	___	for	ADP	IN	_	9	case	_	_
+7	___	the	DET	DT	_	9	det	_	_
+8	____	next	ADJ	JJ	_	9	amod	_	_
+9	_______	edition	NOUN	NN	_	5	nmod	_	_
+10	__	in	ADP	IN	_	12	case	_	_
+11	____	this	DET	DT	_	12	det	_	_
+12	______	series	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+13	_	.	PUNCT	.	_	4	punct	_	_
+
+# s_type = other
+# sent_id = GUM_reddit_polygraph-64
+# speaker = 10_96
+# text = I was leaning towards interviews, but that may require some separation as there are several formats you’ll see in this kind of a process.
+1	_	I	PRON	PRP	_	3	nsubj	_	_
+2	___	be	AUX	VBD	_	3	aux	_	_
+3	_______	lean	VERB	VBG	_	0	root	_	_
+4	_______	towards	ADP	IN	_	5	case	_	_
+5	__________	interview	NOUN	NNS	_	3	obl	_	SpaceAfter=No
+6	_	,	PUNCT	,	_	10	punct	_	_
+7	___	but	CCONJ	CC	_	10	cc	_	_
+8	____	that	PRON	DT	_	10	nsubj	_	_
+9	___	may	AUX	MD	_	10	aux	_	_
+10	_______	require	VERB	VB	_	3	conj	_	_
+11	____	some	DET	DT	_	12	det	_	_
+12	__________	separation	NOUN	NN	_	10	obj	_	_
+13	__	as	SCONJ	IN	_	15	mark	_	_
+14	_____	there	PRON	EX	_	15	expl	_	_
+15	___	be	VERB	VBP	_	10	advcl	_	_
+16	_______	several	ADJ	JJ	_	17	amod	_	_
+17	_______	format	NOUN	NNS	_	15	nsubj	_	_
+18	___	you	PRON	PRP	_	20	nsubj	_	SpaceAfter=No
+19	___	will	AUX	MD	_	20	aux	_	_
+20	___	see	VERB	VB	_	17	acl:relcl	_	_
+21	__	in	ADP	IN	_	23	case	_	_
+22	____	this	DET	DT	_	23	det	_	_
+23	____	kind	NOUN	NN	_	20	obl	_	_
+24	__	of	ADP	IN	_	26	case	_	_
+25	_	a	DET	DT	_	26	det	_	_
+26	_______	process	NOUN	NN	_	23	nmod	_	SpaceAfter=No
+27	_	.	PUNCT	.	_	3	punct	_	_
+
+# s_type = decl
+# sent_id = GUM_reddit_polygraph-65
+# speaker = 10_96
+# text = I've also seen questions about the psychological evals before too.
+1	_	I	PRON	PRP	_	4	nsubj	_	SpaceAfter=No
+2	___	have	AUX	VBP	_	4	aux	_	_
+3	____	also	ADV	RB	_	4	advmod	_	_
+4	____	see	VERB	VBN	_	0	root	_	_
+5	_________	question	NOUN	NNS	_	4	obj	_	_
+6	_____	about	ADP	IN	_	9	case	_	_
+7	___	the	DET	DT	_	9	det	_	_
+8	_____________	psychological	ADJ	JJ	_	9	amod	_	_
+9	_____	evals	NOUN	NNS	_	5	nmod	_	_
+10	______	before	ADV	RB	_	4	advmod	_	_
+11	___	too	ADV	RB	_	4	advmod	_	SpaceAfter=No
+12	_	.	PUNCT	.	_	4	punct	_	_
+
